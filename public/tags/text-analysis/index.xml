@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text analysis | DCS 210</title>
+    <link>/tags/text-analysis/</link>
+      <atom:link href="/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>text analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>text analysis</title>
+      <link>/tags/text-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Attitudes Toward Prison Reform and Parole in Maine</title>
+      <link>/project/mpac-project/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/mpac-project/</guid>
+      <description>&lt;p&gt;Maine was the first state to abolish parole in 1976 and remains one of 16 states that does not offer parole. A reform bill to reinstate parole was recently passed in the house and the senate in Maine (see the full article in &lt;a href=&#34;https://www.mainepublic.org/courts-and-crime/2021-12-14/a-bill-to-restore-parole-in-maine-passed-in-the-house-and-senate-its-been-sitting-on-janet-mills-desk-for-months&#34;&gt;The Maine Public&lt;/a&gt;. The state legislature announced in April the creation of a 13-member commission to study restoring parole, with a December 1 deadline to make its recommendations (&lt;a href=&#34;https://www.wmtw.com/article/parole-in-maine/39765482#&#34;&gt;WMTW&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;This project comes at a critical decision point for Maine. This work will build on work conducted in Professor Amy Douglass&#39; class (Psychology 218) in partnership with the Maine Prisoner Advocacy Coalition (MPAC) which researched perceptions of parole for violent and non-violent crimes and looks at the effect of different justifications on individual&amp;rsquo;s perceptions.&lt;/p&gt;
+&lt;p&gt;There is an opportunity in this project to look at broad questions including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are Mainer&amp;rsquo;s attitudes towards parole for violent and non-violent crimes?&lt;/li&gt;
+&lt;li&gt;How is parole for prisoners portrayed through media and facebook coverage?&lt;/li&gt;
+&lt;li&gt;What can we learn from other states and country&amp;rsquo;s justice systems about parole outcomes?&lt;/li&gt;
+&lt;li&gt;Can we use statistics and data to combat misinformation surrounding prison reform including beliefs about how common recidivism is?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project can be developed in several directions, some potential questions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How has reinstating parole and the reform bill been represented in the Maine media (newspaper, facebook) coverage? Do similar themes emerge when looking at the media coverage and the public&amp;rsquo;s perception of parole?&lt;/li&gt;
+&lt;li&gt;What are parole outcomes in states with parole that are similar to Maine in terms of rural and demographics? Is there evidence for desistance (the reduction in criminal behavior that occurs after a person reaches adulthood)? Is there any statistical basis for individual&amp;rsquo;s perceptions on recidivism (recommitting crimes)?&lt;/li&gt;
+&lt;li&gt;If the reform bill is enacted in Maine, how many individuals and who will be eligible for parole?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project is in collaboration with the &lt;a href=&#34;https://www.maineprisoneradvocacy.org&#34;&gt;Maine Prisoner Advocacy Coalition&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-reading-and-resources&#34;&gt;Project Reading and Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nij.ojp.gov/topics/articles/what-does-it-mean-defining-measuring-and-analyzing-desistance-crime-criminal#about-author--0&#34;&gt;Defining, Measuring, and Analyzing Desistance by Prof. Michael Roque&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trends.vera.org/&#34;&gt;Incareration Trends Interactive Map - Vera Institute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vera.org/publications/overlooked-women-and-jails-report&#34;&gt;Overlooked: Women and Jails in an Era of Reform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vera.org/publications/out-of-sight-growth-of-jails-rural-america&#34;&gt;Out of Sight: The Growth of Jails in Rural America&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vera.org/publications/divided-justice-black-white-jail-incarceration&#34;&gt;Divided Justice: Trends in Black and White Incarceration 1990-2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vera.org/publications/the-new-dynamics-of-mass-incarceration&#34;&gt;The New Dynamics of Mass Incarceration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mariamekaba.com&#34;&gt;Mariame Kaba&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.blackandpink.org&#34;&gt;Black and pink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;US-wide Data&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-01-22&#34;&gt;The Vera Insitute Data on TidyTuesday&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Maine Data&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://csat.bjs.ojp.gov/advanced-query&#34;&gt;The Bureau of Justice Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justiceresearch.usm.maine.edu/research-library/&#34;&gt;Maine Statistical Analysis Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maine Department of Corrections &lt;a href=&#34;https://www.maine.gov/corrections/about/best-practices/reports-statistical-data&#34;&gt;Reports &amp;amp; Statistical Data page&lt;/a&gt;, &lt;a href=&#34;https://www.maine.gov/corrections/sites/maine.gov.corrections/files/inline-files/March%202022%20Monthly%20Adult%20Data%20Report_1.pdf&#34;&gt;monthly report&lt;/a&gt; and &lt;a href=&#34;https://www.maine.gov/corrections/sites/maine.gov.corrections/files/inline-files/2021%20Year%20End%20Adult%20Data%20Report.pdf&#34;&gt;yearly report&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

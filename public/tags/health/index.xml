@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health | DCS 210</title>
+    <link>/tags/health/</link>
+      <atom:link href="/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Health</title>
+      <link>/tags/health/</link>
+    </image>
+    
+    <item>
+      <title>Tobacco-use among immigrants in Maine</title>
+      <link>/project/akhss-project/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/akhss-project/</guid>
+      <description>&lt;p&gt;Understanding tobacco-use among recent immigrants and refugees in Maine.&lt;/p&gt;
+&lt;p&gt;This project is in partnership with &lt;a href=&#34;https://akhss.org&#34;&gt;Ak Health and Social Services&lt;/a&gt;, a Lewiston-based nonprofit that connects recent immigrants and refugees with social services such as COVID-19 testing, vaccinations, counseling services, emotional support, need assessments and workforce development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

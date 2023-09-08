@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | DCS 210</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/laurie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/laurie/</guid>
+      <description>&lt;p&gt;Laurie Baker (she/her) is a Visiting Assistant Professor in Digital and Computational Studies at Bates College. Her research focuses on spatial and temporal patterns in human and biological systems, including disease spread, animal movement, and economic activities such as fishing and shipping. She uses spatiotemporal modelling and other data science techniques to understand these patterns and to evaluate the impact of interventions and policy decisions.&lt;/p&gt;
+&lt;p&gt;She is also passionate about designing open-source education materials to equip communities with the tools to engage in data science work so that they can address issues of local importance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sam/</guid>
+      <description>&lt;p&gt;Sam Boss is the Assistant Director of Community-Engaged Learning and Research at the Harward Center. He grew up in rural, central Maine, and currently lives in Auburn with his spouse Katie and two children, Clara and Elliot. Before coming to Bates, Sam completed a PhD in History at Brown University.&lt;/p&gt;
+&lt;p&gt;He enjoys teaching a First-Year Seminar at Bates that examines contemporary issues such as immigration, poverty, housing, and environmental justice by exploring Lewiston and its fascinating past. He is active with several local boards, committees, and non-profit organizations, including the Auburn Conservation Commission, the Stanton Bird Club, Maine Community Integration, Valo, and the Maine Humanities Council Veterans’ Book group.&lt;/p&gt;
+&lt;p&gt;His favorite hobbies are gardening, fishing, and baking/cooking, and he goes to Range Pond State Park in Poland with his family every chance he gets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Students will work in multi-disciplinary teams on a research problem identified by a community partner from business, industry, or government. Together with community partners, students will work to gain insight from data, building skills in reproducible analysis (literate programming and version control) and collaboration, using modern programming tools and techniques.&lt;/p&gt;
+&lt;p&gt;This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. Students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.&lt;/p&gt;
+&lt;p&gt;Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

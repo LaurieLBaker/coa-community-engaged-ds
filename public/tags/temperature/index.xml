@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperature | DCS 210</title>
+    <link>/tags/temperature/</link>
+      <atom:link href="/tags/temperature/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temperature</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Temperature</title>
+      <link>/tags/temperature/</link>
+    </image>
+    
+    <item>
+      <title>Creating a data pipeline for monitoring temperature and biodiversity along the coast of Maine and New Hampshire with NeCSA and Manomet</title>
+      <link>/project/necsa-manomet-project/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/necsa-manomet-project/</guid>
+      <description>&lt;p&gt;This project is in collaboration with NeCSA and &lt;a href=&#34;https://www.manomet.org&#34;&gt;Manomet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

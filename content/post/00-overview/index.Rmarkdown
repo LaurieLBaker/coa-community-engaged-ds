@@ -1,0 +1,116 @@
+---
+title: "Overview"
+author: ''
+date: '2021-05-01'
+slug: []
+categories: []
+tags: []
+subtitle: Tentative Course Schedule
+summary: This is a tentative course schedule. The flow of topics might change slightly
+  depending on how quickly / slowly it feels right to progress through them. However,
+  the dates for presentations to community partners and deadlines for the final report will be fixed.
+authors: []
+lastmod: '2021-05-01T10:39:50-04:00'
+featured: yes
+image:
+  caption: Fig. 1 The Turing Way project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3332807
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+The figure below is a visual summary of the tentative course schedule. The flow of topics for each week might change slightly depending on how quickly / slowly it feels right to progress through them. However the deadlines for assignments will not change barring unexpected circumstances.
+
+```{r schedule, echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}
+library(tidyverse)
+library(viridis)
+library(sugrrants)
+library(lubridate)
+
+d <- read_csv("course-calendar-bates.csv") %>%
+  mutate(date = mdy(date))
+
+d_cal <- d %>%
+  frame_calendar(
+    x = 1, y = 1, date = date,
+    calendar = "weekly", week_start = -1
+  ) %>%
+  mutate(
+    day_short = str_sub(day, 1, 1),
+    day_short = if_else(day == "Thursday", "Th", day_short),
+    day_short = if_else(day == "Saturday", "Sa", day_short),
+    day_short = if_else(day == "Sunday", "Su", day_short),
+    day_of_month = day(date),
+    month = month(date, label = TRUE, abbr = TRUE),
+    day_of_month = paste(month, day_of_month)) 
+
+d_cal %>%
+  ggplot(aes(x = .x, y = .y)) +
+  geom_tile(aes(fill = due_type, alpha = mark_type), colour = "gray50") +
+  # labels
+  geom_text(
+    data = d_cal %>% filter(mark_type == "Marked"), 
+    aes(label = due_detail), color = "white",
+    size = 3, fontface = "bold"
+  ) +
+  geom_text(
+    data = d_cal %>% filter(mark_type != "Marked"),
+    aes(label = due_detail), color = "white",
+    size = 3, fontface = "bold"
+  ) +
+  # day
+  geom_text(
+    data = d_cal %>% filter(is.na(due_type)),
+    aes(label = day_short), color = "grey50", size = 2,
+    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
+  ) +
+  geom_text(
+    data = d_cal %>% filter(!is.na(due_type)),
+    aes(label = day_short), color = "white", size = 2,
+    nudge_x = -0.08, nudge_y = 0.03, hjust = 0
+  ) +
+  # date
+  geom_text(
+    data = d_cal %>% filter(is.na(due_type)),
+    aes(label = day_of_month), color = "grey50", size = 2,
+    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+  ) +
+  geom_text(
+    data = d_cal %>% filter(!is.na(due_type)),
+    aes(label = day_of_month), color = "white", size = 2,
+    nudge_x = 0.08, nudge_y = -0.03, hjust = 1
+  ) +
+  # colors
+  scale_fill_manual(
+    values = c(
+      "Sprint Planning"         = "#8fada7",
+      "Presentation"             = "#277f8e",
+      "Partner meeting"              = "#99B2DD",
+      "Report"              = "#3E3D53",
+      "PDP"          = "#e9d968"
+    ),
+    na.translate = FALSE
+  ) +
+  # alpha
+  scale_alpha_manual(values = c("Marked" = 1, "Not marked" = 0.75), guide = "none") +
+  # theme
+  theme_void() +
+  theme(
+    legend.position = "bottom",
+    plot.caption = element_text(face = "italic", colour = "gray50", hjust = 1, vjust = 33)
+  ) +
+  labs(
+    fill = "",
+    caption = ""
+  ) +
+  geom_text(
+    data = d_cal %>% filter(day == "Monday"),
+    aes(y = .y, label = paste("Week", week)), x = -0.1,
+    hjust = 1, color = "grey50"
+  ) +
+  coord_cartesian(xlim = c(-0.2, 1.03), clip = "off")
+```
+
+### Tasks
+
+- Complete the [Project interests and getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
