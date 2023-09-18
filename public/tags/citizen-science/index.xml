@@ -5,7 +5,7 @@
     <link>/tags/citizen-science/</link>
       <atom:link href="/tags/citizen-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Citizen Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Citizen Science</title>
@@ -13,11 +13,100 @@
     </image>
     
     <item>
-      <title>Creating a data pipeline for monitoring temperature and biodiversity along the coast of Maine and New Hampshire with NeCSA and Manomet</title>
+      <title>Developing a data pipeline for monitoring temperature and intertidal biodiversity data in the Gulf of Maine.</title>
       <link>/project/necsa-manomet-project/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/necsa-manomet-project/</guid>
-      <description>&lt;p&gt;This project is in collaboration with NeCSA and &lt;a href=&#34;https://www.manomet.org&#34;&gt;Manomet&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Northeastern Coastal Station Alliance (NeCSA) is a collaboration of coastal field stations in the Gulf of Maine working together to understand climate change impacts in this rapidly changing system. With the help of volunteers, member field stations have been working to gathering temperature and intertidal community data at different sites along the Gulf of Maine since 2016, to establish valuable baseline data on changes in the Gulf of Maine.&lt;/p&gt;
+&lt;p&gt;Manomet is a non-profit organization that uses science and collaboration to improve the health of flyways, coastal ecosystems, and working lands and seas. The Fisheries Division works to sustain New England’s fishing heritage in a changing Gulf of Maine by restoring fisheries and diversifying opportunities in fishing and aquaculture.&lt;/p&gt;
+&lt;p&gt;The aims of this community project are several-fold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a protocol and data pipeline for carrying out quality assurance of the data, including developing a data workflow for future NeCSA data collection efforts and analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify ways to improve NeCSA&amp;rsquo;s data collection process including developing standards and methodologies for data recording.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create and design meaningful ways to visualize, explore, and present trends in the data (water temperature data, biological community data – species occurrence, species counts, biodiversity indices, and more) collected by NeCSA and Manomet to build a greater understanding of the Gulf of Maine&amp;rsquo;s intertidal communities and how they&amp;rsquo;re changing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Specific milestones for the short-term for each of these goals include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Create a data pipeline that takes the data from collection through to analysis ready:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing data visualizations and scripts for quality assurance and quality control checking:
+&lt;ul&gt;
+&lt;li&gt;Pre-process the water temperature data to remove inaccurate temperature readings resulting from low tides.&lt;/li&gt;
+&lt;li&gt;Create automated checks to flag unusual data entries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify ways to improve the data collection process based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Issues that arise in the data processing.&lt;/li&gt;
+&lt;li&gt;Design of data collection sheets.&lt;/li&gt;
+&lt;li&gt;Record items that are unclear during the data process.&lt;/li&gt;
+&lt;li&gt;Create a codebook for the data that will aid in further data processing and volunteer collection effforts.&lt;/li&gt;
+&lt;li&gt;Bring the pieces above together to create a sketch of all the steps of the process including quality checks that should occur at each stage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Summarize, analyze, and present key preliminary findings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop an Rmarkdown template to report overall NeCSA and Manomet data trends and results for individuals sites.&lt;/li&gt;
+&lt;li&gt;Explore biological questions including:
+&lt;ul&gt;
+&lt;li&gt;What species are most common?&lt;/li&gt;
+&lt;li&gt;How do they vary across sites and through time?&lt;/li&gt;
+&lt;li&gt;Do we see evidence of increases in invasive species like green crabs over time?&lt;/li&gt;
+&lt;li&gt;What changes do we see in intertidal crab survey data collected by &lt;a href=&#34;https://www.manomet.org&#34;&gt;Manomet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;How do the abundance and biodiversity measures vary across different sites? over time? and are these differences explained by environmental variables like temperature? or other site-specific characteristics?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Taking a deeper dive into Manomet&amp;rsquo;s crab data surveys:
+&lt;ul&gt;
+&lt;li&gt;How does crab density change over time and within and between sites? Are the differences statistically meaningful?&lt;/li&gt;
+&lt;li&gt;What species of crabs are found, native crabs or other invasives (Asian shore crab), changing sex ratios, shell status and timing of pre-molt/soft shells, size distributions etc.&lt;/li&gt;
+&lt;li&gt;How do the above trends correlate with environmental data (salinity and temperature)? What available environmental data might be most suitable for the site (hobo loggers at Robinhood Cove, Kennebec Estuary Land Trust, Friends of Casco Bay station off sandy point for the New Meadows site).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Develop an interactive shiny application that allows users to explore and query the Gulf of Maine data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Student efforts will be continued this summer by an Environmental Data Initiative (EDI) Fellow, who will use the pipeline developed to collate, clean, and analyze all five years of data from the 10 member stations.&lt;/p&gt;
+&lt;h3 id=&#34;what-skills-you-can-expect-to-learn&#34;&gt;What skills you can expect to learn:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing, cleaning and preparing data&lt;/li&gt;
+&lt;li&gt;Design tests for checking data quality&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Automated report writing with Rmarkdown&lt;/li&gt;
+&lt;li&gt;Statistical analysis techniques for working with biological data&lt;/li&gt;
+&lt;li&gt;Science communication&lt;/li&gt;
+&lt;li&gt;Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing environmental data from start to finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of the data on &lt;a href=&#34;https://laurielbaker.github.io/NeSCA-Field-Stations/NeCSA-Data-Exploration.html&#34;&gt;Github&lt;/a&gt; and the &lt;a href=&#34;https://github.com/LaurieLBaker/NeSCA-Field-Stations&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;These resources are a starting place which you can add to.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Manomet&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://downeastinstitute.org/uncategorized/impacts-of-green-crabs-on-soft-shell-clams/&#34;&gt;Impacts of Green Crabs on Softshell Clams by the Downeast Institute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;crab_life_history.pdf&#34;&gt;Article: Life History and Population Dynamics of Green Crabs (Carcinus maenas)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;manomet_green_crab_protocol.pdf&#34;&gt;Manomet crab sampling protocol: Assessing Intertidal Populations of the Invasive European Green Crab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NeCSA&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gmri.org/stories/gulf-of-maine-warming-update-summer-2021/&#34;&gt;Gulf of Maine Warming Update: 2021 from the Gulf of Maine Research Institute&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://github.com/mlclayton6&#34;&gt;Matt Clayton &amp;lsquo;23&lt;/a&gt; for preparing and creating initial visualizations of the data.&lt;/p&gt;
 </description>
     </item>
     

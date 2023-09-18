@@ -5,3 +5,6 @@
 This course website theme has been adapted from the 2020 [Intro to Data Science course website](https://github.com/ids-s1-20/website) by Mine Çetinkaya-Rundel at the University of Edinburgh under the [CC-BY-SA-4.0 License](https://github.com/ids-s1-20/website/blob/main/LICENSE.md)
 
 # Community-Engaged Data Science
+
+Sophie makes an edit to check Git connection 
+It isn't working!! 

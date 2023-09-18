@@ -18,16 +18,37 @@
     <loc>/tags/coastal-monitoring/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/necsa-manomet-project/</loc>
+    <loc>/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/project/necsa-manomet-project/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/environmental-data/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/epidemiology/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/health/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/immigration/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lyme-disease/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/maine/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/lyme-project/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/mpac-project/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/passive-surveillance/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/prison-reform/</loc>
@@ -39,7 +60,16 @@
     <loc>/tags/quality-control/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/reporting/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/smoking/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/social-justice/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/survey-data/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -51,7 +81,13 @@
     <loc>/tags/text-analysis/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/mpac-project/</loc>
+    <loc>/tags/ticks/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tobacco-use/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/akhss-project/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
@@ -67,25 +103,10 @@
     <lastmod>2021-05-08T11:56:23-04:00</lastmod>
   </url><url>
     <loc>/post/00-overview/</loc>
-    <lastmod>2021-01-04T10:39:50-04:00</lastmod>
+    <lastmod>2021-05-01T10:39:50-04:00</lastmod>
   </url><url>
     <loc>/post/01-week/</loc>
     <lastmod>2021-05-01T11:19:34-04:00</lastmod>
-  </url><url>
-    <loc>/tags/health/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/immigration/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/smoking/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/survey/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/akhss-project/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
   </url><url>
@@ -93,18 +114,6 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/tags/epidemiology/</loc>
-  </url><url>
-    <loc>/tags/lyme-disease/</loc>
-  </url><url>
-    <loc>/project/lyme-project/</loc>
-  </url><url>
-    <loc>/tags/passive-surveillance/</loc>
-  </url><url>
     <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/tags/reporting/</loc>
-  </url><url>
-    <loc>/tags/ticks/</loc>
   </url>
 </urlset>

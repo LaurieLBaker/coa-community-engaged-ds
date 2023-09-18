@@ -13,7 +13,7 @@ tags:
 - passive surveillance
 - lyme disease
 - ticks
-title: Mapping Primary Care Providers for Lyme Disease Education Outreach
+title: Maine River Herring Network
 publishDate: "2022-04-25T00:00:00Z"
 ---
 

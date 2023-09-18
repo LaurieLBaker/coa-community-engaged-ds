@@ -1,26 +1,26 @@
 date,day,due_type,due_detail,mark_type,who,week
 5/2/22,Monday,Sprint Planning,,,Team,1
-5/3/22,Tuesday,Partner meeting,Group notes,,Team,1
-5/4/22,Wednesday,Development,Personal Development Plan,,Individual,1
-5/5/22,Thursday,Presentation,Community Partner,,Team,1
+5/3/22,Tuesday,,,,Team,1
+5/4/22,Wednesday,Partner meeting,Group notes,,Team,1
+5/5/22,Thursday,PDP,Plan,,Individual,1
 5/6/22,Friday,,,,,1
 5/7/22,Saturday,,,,,1
 5/8/22,Sunday,,,,,1
 5/9/22,Monday,Sprint Planning,,,Team,2
 5/10/22,Tuesday,,,,,2
-5/11/22,Wednesday,,,,,2
+5/11/22,Wednesday,Partner meeting,Group notes,,Team,2
 5/12/22,Thursday,Presentation,Community Partner,,,2
-5/13/22,Friday,PDP,Progress report,,Individual,2
+5/13/22,Friday,PDP,Progress update,,Individual,2
 5/14/22,Saturday,,,,,2
 5/15/22,Sunday,,,,,2
 5/16/22,Monday,Sprint Planning,,,Team,3
 5/17/22,Tuesday,,,,,3
-5/18/22,Wednesday,,,,,3
-5/19/22,Thursday,Presentation,Community Partner,,Team,3
-5/20/22,Friday,PDP,Progress report,,Individual,3
+5/18/22,Wednesday,Partner meeting,Group notes,,Team,3
+5/19/22,Thursday,Presentation,To Class,,Team,3
+5/20/22,Friday,PDP,Progress update,,Individual,3
 5/21/22,Saturday,,,,,3
 5/22/22,Sunday,,,,,3
 5/23/22,Monday,Sprint Planning,,,Team,4
-5/24/22,Tuesday,Report,Final report,,Team,4
+5/24/22,Tuesday,Report,Final report,,Individual,4
 5/25/22,Wednesday,Presentation,Community Partner,,Team,4
-5/26/22,Thursday,PDP,Progress report,,Individual,4
+5/26/22,Thursday,PDP,Progress update,,Individual,4

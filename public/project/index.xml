@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Projects</title>
@@ -13,36 +13,219 @@
     </image>
     
     <item>
-      <title>Creating a data pipeline for monitoring temperature and biodiversity along the coast of Maine and New Hampshire with NeCSA and Manomet</title>
+      <title>Developing a data pipeline for monitoring temperature and intertidal biodiversity data in the Gulf of Maine.</title>
       <link>/project/necsa-manomet-project/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/necsa-manomet-project/</guid>
-      <description>&lt;p&gt;This project is in collaboration with NeCSA and &lt;a href=&#34;https://www.manomet.org&#34;&gt;Manomet&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Northeastern Coastal Station Alliance (NeCSA) is a collaboration of coastal field stations in the Gulf of Maine working together to understand climate change impacts in this rapidly changing system. With the help of volunteers, member field stations have been working to gathering temperature and intertidal community data at different sites along the Gulf of Maine since 2016, to establish valuable baseline data on changes in the Gulf of Maine.&lt;/p&gt;
+&lt;p&gt;Manomet is a non-profit organization that uses science and collaboration to improve the health of flyways, coastal ecosystems, and working lands and seas. The Fisheries Division works to sustain New England’s fishing heritage in a changing Gulf of Maine by restoring fisheries and diversifying opportunities in fishing and aquaculture.&lt;/p&gt;
+&lt;p&gt;The aims of this community project are several-fold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a protocol and data pipeline for carrying out quality assurance of the data, including developing a data workflow for future NeCSA data collection efforts and analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify ways to improve NeCSA&amp;rsquo;s data collection process including developing standards and methodologies for data recording.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create and design meaningful ways to visualize, explore, and present trends in the data (water temperature data, biological community data – species occurrence, species counts, biodiversity indices, and more) collected by NeCSA and Manomet to build a greater understanding of the Gulf of Maine&amp;rsquo;s intertidal communities and how they&amp;rsquo;re changing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Specific milestones for the short-term for each of these goals include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Create a data pipeline that takes the data from collection through to analysis ready:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designing data visualizations and scripts for quality assurance and quality control checking:
+&lt;ul&gt;
+&lt;li&gt;Pre-process the water temperature data to remove inaccurate temperature readings resulting from low tides.&lt;/li&gt;
+&lt;li&gt;Create automated checks to flag unusual data entries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify ways to improve the data collection process based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Issues that arise in the data processing.&lt;/li&gt;
+&lt;li&gt;Design of data collection sheets.&lt;/li&gt;
+&lt;li&gt;Record items that are unclear during the data process.&lt;/li&gt;
+&lt;li&gt;Create a codebook for the data that will aid in further data processing and volunteer collection effforts.&lt;/li&gt;
+&lt;li&gt;Bring the pieces above together to create a sketch of all the steps of the process including quality checks that should occur at each stage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Summarize, analyze, and present key preliminary findings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop an Rmarkdown template to report overall NeCSA and Manomet data trends and results for individuals sites.&lt;/li&gt;
+&lt;li&gt;Explore biological questions including:
+&lt;ul&gt;
+&lt;li&gt;What species are most common?&lt;/li&gt;
+&lt;li&gt;How do they vary across sites and through time?&lt;/li&gt;
+&lt;li&gt;Do we see evidence of increases in invasive species like green crabs over time?&lt;/li&gt;
+&lt;li&gt;What changes do we see in intertidal crab survey data collected by &lt;a href=&#34;https://www.manomet.org&#34;&gt;Manomet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;How do the abundance and biodiversity measures vary across different sites? over time? and are these differences explained by environmental variables like temperature? or other site-specific characteristics?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Taking a deeper dive into Manomet&amp;rsquo;s crab data surveys:
+&lt;ul&gt;
+&lt;li&gt;How does crab density change over time and within and between sites? Are the differences statistically meaningful?&lt;/li&gt;
+&lt;li&gt;What species of crabs are found, native crabs or other invasives (Asian shore crab), changing sex ratios, shell status and timing of pre-molt/soft shells, size distributions etc.&lt;/li&gt;
+&lt;li&gt;How do the above trends correlate with environmental data (salinity and temperature)? What available environmental data might be most suitable for the site (hobo loggers at Robinhood Cove, Kennebec Estuary Land Trust, Friends of Casco Bay station off sandy point for the New Meadows site).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Develop an interactive shiny application that allows users to explore and query the Gulf of Maine data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Student efforts will be continued this summer by an Environmental Data Initiative (EDI) Fellow, who will use the pipeline developed to collate, clean, and analyze all five years of data from the 10 member stations.&lt;/p&gt;
+&lt;h3 id=&#34;what-skills-you-can-expect-to-learn&#34;&gt;What skills you can expect to learn:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing, cleaning and preparing data&lt;/li&gt;
+&lt;li&gt;Design tests for checking data quality&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Automated report writing with Rmarkdown&lt;/li&gt;
+&lt;li&gt;Statistical analysis techniques for working with biological data&lt;/li&gt;
+&lt;li&gt;Science communication&lt;/li&gt;
+&lt;li&gt;Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing environmental data from start to finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview of the data on &lt;a href=&#34;https://laurielbaker.github.io/NeSCA-Field-Stations/NeCSA-Data-Exploration.html&#34;&gt;Github&lt;/a&gt; and the &lt;a href=&#34;https://github.com/LaurieLBaker/NeSCA-Field-Stations&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;These resources are a starting place which you can add to.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Manomet&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://downeastinstitute.org/uncategorized/impacts-of-green-crabs-on-soft-shell-clams/&#34;&gt;Impacts of Green Crabs on Softshell Clams by the Downeast Institute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;crab_life_history.pdf&#34;&gt;Article: Life History and Population Dynamics of Green Crabs (Carcinus maenas)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;manomet_green_crab_protocol.pdf&#34;&gt;Manomet crab sampling protocol: Assessing Intertidal Populations of the Invasive European Green Crab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NeCSA&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gmri.org/stories/gulf-of-maine-warming-update-summer-2021/&#34;&gt;Gulf of Maine Warming Update: 2021 from the Gulf of Maine Research Institute&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://github.com/mlclayton6&#34;&gt;Matt Clayton &amp;lsquo;23&lt;/a&gt; for preparing and creating initial visualizations of the data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Understanding Attitudes Toward Prison Reform and Parole in Maine</title>
+      <title>Mapping Primary Care Providers for Lyme Disease Education Outreach</title>
+      <link>/project/lyme-project/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/lyme-project/</guid>
+      <description>&lt;p&gt;Maine has high rates of tickborne diseases including Lyme disease, anaplasmosis, and babesiosis. Tickborne disease are spread to humans through the bite of an infected deer tick (&lt;em&gt;Ixodes scapularis&lt;/em&gt;) and can have serious health implications (see table below).&lt;/p&gt;
+&lt;p&gt;Diagnosis of Lyme disease is typically through primary care providers. While 70-80% of people nationally infected with Lyme disease show a skin rash referred to as the &amp;ldquo;Bull&amp;rsquo;s-eye&amp;rdquo; rash or erythema migrans (EM) &lt;a href=&#34;https://gateway.maine.gov/cognos/cgi-bin/cognosisapi.dll?b_action=cognosViewer&amp;amp;ui.action=run&amp;amp;ui.object=%2fcontent%2ffolder%5b%40name%3d%27CDC%20EOHP%20EPHT%20AVR%27%5d%2freportView%5b%40name%3d%27Maine%20Environmental%20Public%20Health%20Tracking%20%28EPHT%29%20Network%20-%20Public%20Data%20Portal%27%5d&amp;amp;cv.header=false&amp;amp;cv.toolbar=false&#34;&gt;Maine Tracking Network&lt;/a&gt;. Further educational training on how to recognize Lyme disease in patients could help primary care provider&amp;rsquo;s diagnose the 20-30% of Lyme disease cases where the patient does not present the Bull&amp;rsquo;s eye rash.&lt;/p&gt;
+&lt;p&gt;Studying Lyme disease incidence is a challenging problem. High Lyme disease incidence may reflect areas with a higher risk of Lyme disease or where primary care providers are able to accurately diagnose Lyme disease in patients. Similarly, low Lyme disease incidence may reflect areas with a lower risk of Lyme disease or where people with Lyme may not be seeking treatment or where primary care providers are missing Lyme disease cases. Passive tick submission data (where ticks are mailed in or dropped off at testing facilities) can give some insight into the prevalence of Lyme disease in ticks across Maine, however, this data can be biased by who submits ticks for testing which might depend on the Lyme disease awareness and concern of individuals.&lt;/p&gt;
+&lt;p&gt;Students will work in partnership with researchers from the &lt;a href=&#34;https://mmcri.org/?page_id=1090&#34;&gt;Maine Medical Center Research Institute&amp;rsquo;s Lyme and Vector-Borne Disease Lab&lt;/a&gt; to explore, visualize, and analyze the data which could include interactive dashboard to map primary care providers and identify areas with a high-risk of Lyme disease where medical education training programs might be offered to improve Lyme disease diagnosis. Some questions students might consider in this work is whether to look both at areas with very low (possible undiagnosed cases) and areas with high incidence of Lyme disease, how to take into account the population and/or catchment area a provider serves, and how to consider and represent inequity in access to healthcare, including distance to a primary care provider or lack of insurance which act as barriers to treatment.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:140px;text-align:left&#34;&gt;Disease&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:100px;text-align:left&#34;&gt;Cause&lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:160px;text-align:left&#34;&gt;Symptoms &lt;/div&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;div  style=&#34;width:160px;text-align:left&#34;&gt;Health Implications &lt;/div&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Anaplasmosis&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Caused by the &lt;em&gt;Anaplasma phagocytophila&lt;/em&gt; bacteria&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Symptoms include fever, headache, malaise, and body aches.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Anaplasmosis can be a serious illness and can be fatal if not treated correctly.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Babesiosis&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Caused by the &lt;em&gt;Babesia microti&lt;/em&gt; parasite&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Symptoms include extreme fatigue, aches, fever, chills, sweating, dark urine, and possibly anemia.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Babesiosis can be life threatening.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Lyme disease&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Caused by the &lt;em&gt;Borrelia burgdorferi&lt;/em&gt; bacteria&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;The first clinical sign of the disease is a skin rash referred to as the &amp;ldquo;Bull’s-eye&amp;rdquo; rash or erythema migrans (EM). This occurs in 70-80% of people nationally, usually within 3-30 days after a tick bite. Other signs include arthritis, Bell’s Palsy, and heart problems.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Source: &lt;a href=&#34;https://gateway.maine.gov/cognos/cgi-bin/cognosisapi.dll?b_action=cognosViewer&amp;amp;ui.action=run&amp;amp;ui.object=%2fcontent%2ffolder%5b%40name%3d%27CDC%20EOHP%20EPHT%20AVR%27%5d%2freportView%5b%40name%3d%27Maine%20Environmental%20Public%20Health%20Tracking%20%28EPHT%29%20Network%20-%20Public%20Data%20Portal%27%5d&amp;amp;cv.header=false&amp;amp;cv.toolbar=false&#34;&gt;The Maine Tracking Network&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-skills-you-can-expect-to-learn&#34;&gt;What skills you can expect to learn:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing, cleaning and working with multiple data sources including Lyme disease cases, locations of primary care providers, and Maine population census data.&lt;/li&gt;
+&lt;li&gt;Data visualization and communication of public health information.&lt;/li&gt;
+&lt;li&gt;Report writing using Rmarkdown.&lt;/li&gt;
+&lt;li&gt;Creation of interactive applications using RShiny.&lt;/li&gt;
+&lt;li&gt;Geocomputational methods (e.g. determining if a point is inside a polygon).&lt;/li&gt;
+&lt;li&gt;Geospatial statistical analysis techniques applied to health data.&lt;/li&gt;
+&lt;li&gt;Knowledge exchange including documenting and sharing coding knowledge with community partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This html document gives an &lt;a href=&#34;https://mlclayton6.github.io/Maine-Ticks/pop_lyme_leaflet.html&#34;&gt;overview of the main datasets in the GitHub repository&lt;/a&gt;. These data include: tick submission and testing data, Lyme disease cases, and census data to get you started!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hospitalization data will be added to the Github Repo soon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data in the repo comes from the &lt;a href=&#34;https://gateway.maine.gov/cognos/cgi-bin/cognosisapi.dll?b_action=cognosViewer&amp;amp;ui.action=run&amp;amp;ui.object=%2fcontent%2ffolder%5b%40name%3d%27CDC%20EOHP%20EPHT%20AVR%27%5d%2freportView%5b%40name%3d%27Maine%20Environmental%20Public%20Health%20Tracking%20%28EPHT%29%20Network%20-%20Public%20Data%20Portal%27%5d&amp;amp;cv.header=false&amp;amp;cv.toolbar=false&#34;&gt;Maine Tracking Network&lt;/a&gt; and the U.S. Census.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources:&lt;/h3&gt;
+&lt;p&gt;These resources are a starting place which you can add to.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ticks and Lyme Disease&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/documents/tick-reference-guide.pdf&#34;&gt;Ticks and tick-borne diseases reference sheet&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/lyme/tick-ecology-and-tick-testing.shtml&#34;&gt;Tick ecology and tick testing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/lyme/tick-attachment-and-tickborne-diseases.shtml&#34;&gt;Tick attachment and tickborne diseases&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cdc.gov/ticks/diseases/&#34;&gt;Tick diseases and symptoms&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Geocomputation and Geospatial Health Data&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/index.html&#34;&gt;Geocomputation with R by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paulamoraga.com/book-geospatial/&#34;&gt;Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny by Paula Moraga&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h3&gt;
+&lt;p&gt;Special thanks to &lt;a href=&#34;https://github.com/mlclayton6&#34;&gt;Matt Clayton &amp;lsquo;23&lt;/a&gt; for finding, preparing and creating initial visualizations and maps of the data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parole in Maine - what can we learn from public perceptions, media coverage, and parole outcomes in other states?</title>
       <link>/project/mpac-project/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/mpac-project/</guid>
       <description>&lt;p&gt;Maine was the first state to abolish parole in 1976 and remains one of 16 states that does not offer parole. A reform bill to reinstate parole was recently passed in the house and the senate in Maine (see the full article in &lt;a href=&#34;https://www.mainepublic.org/courts-and-crime/2021-12-14/a-bill-to-restore-parole-in-maine-passed-in-the-house-and-senate-its-been-sitting-on-janet-mills-desk-for-months&#34;&gt;The Maine Public&lt;/a&gt;. The state legislature announced in April the creation of a 13-member commission to study restoring parole, with a December 1 deadline to make its recommendations (&lt;a href=&#34;https://www.wmtw.com/article/parole-in-maine/39765482#&#34;&gt;WMTW&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;This project comes at a critical decision point for Maine. This work will build on work conducted in Professor Amy Douglass&#39; class (Psychology 218) in partnership with the Maine Prisoner Advocacy Coalition (MPAC) which researched perceptions of parole for violent and non-violent crimes and looks at the effect of different justifications on individual&amp;rsquo;s perceptions.&lt;/p&gt;
+&lt;p&gt;This project comes at a critical decision point for Maine. Depending on interest, this project may consitute one or two projects depending on student interest:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project will build on work conducted in Professor Amy Douglass&amp;rsquo; class (Psychology 218) in partnership with the Maine Prisoner Advocacy Coalition (MPAC) which researched perceptions of parole for violent and non-violent crimes and looks at the effect of different justifications on individual&amp;rsquo;s perceptions.&lt;/p&gt;
 &lt;p&gt;There is an opportunity in this project to look at broad questions including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;What are Mainer&amp;rsquo;s attitudes towards parole for violent and non-violent crimes?&lt;/li&gt;
-&lt;li&gt;How is parole for prisoners portrayed through media and facebook coverage?&lt;/li&gt;
-&lt;li&gt;What can we learn from other states and country&amp;rsquo;s justice systems about parole outcomes?&lt;/li&gt;
-&lt;li&gt;Can we use statistics and data to combat misinformation surrounding prison reform including beliefs about how common recidivism is?&lt;/li&gt;
+&lt;li&gt;What are the publics attitudes towards parole for violent and non-violent crimes?&lt;/li&gt;
+&lt;li&gt;Do common perceptions about recidivism (recommitting a crime) and desistance (the reduction in criminal behavior that occurs after a person reaches adulthood) emerge from the survey or through the literature search?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This project can be developed in several directions, some potential questions include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;How has reinstating parole and the reform bill been represented in the Maine media (newspaper, facebook) coverage? Do similar themes emerge when looking at the media coverage and the public&amp;rsquo;s perception of parole?&lt;/li&gt;
-&lt;li&gt;What are parole outcomes in states with parole that are similar to Maine in terms of rural and demographics? Is there evidence for desistance (the reduction in criminal behavior that occurs after a person reaches adulthood)? Is there any statistical basis for individual&amp;rsquo;s perceptions on recidivism (recommitting crimes)?&lt;/li&gt;
-&lt;li&gt;If the reform bill is enacted in Maine, how many individuals and who will be eligible for parole?&lt;/li&gt;
+&lt;li&gt;How has reinstating parole and the reform bill been represented in three Maine newspapers (The Sun Journal, Bangor Daily News, and Portland Press Herald)?  Do similar themes emerge when looking at the media coverage and perception of parole in the survey Psych 218 conducted? How might the way the issues is covered affect individual&amp;rsquo;s attitudes about parole?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project 2:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Project 2 looks broadly at what can we learn about recividivism and desistance from other states and country&amp;rsquo;s justice systems parole outcomes, and what the outcomes of the parole reform bill might looks like in Maine in terms of people released.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who are prisoners in Maine? Can we use data visualizations and infographics to educate people about prisoners and prison&amp;rsquo;s in Maine? Who? Why? What? Where?&lt;/li&gt;
+&lt;li&gt;What are parole outcomes in states with parole that are similar to Maine in terms of criminal justice system, rural/urban population and demographics?&lt;/li&gt;
+&lt;li&gt;Do we see statistical evidence for desistance (the reduction in criminal behavior that occurs after a person reaches adulthood)? How common is recidivism (recommitting crimes)?&lt;/li&gt;
+&lt;li&gt;If the reform bill is passed, what would this look like in Maine? How many individuals and who would be eligible for parole in numbers?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This project is in collaboration with the &lt;a href=&#34;https://www.maineprisoneradvocacy.org&#34;&gt;Maine Prisoner Advocacy Coalition&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;project-reading-and-resources&#34;&gt;Project Reading and Resources&lt;/h3&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://nij.ojp.gov/topics/articles/what-does-it-mean-defining-measuring-and-analyzing-desistance-crime-criminal#about-author--0&#34;&gt;Defining, Measuring, and Analyzing Desistance by Prof. Michael Roque&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://trends.vera.org/&#34;&gt;Incareration Trends Interactive Map - Vera Institute&lt;/a&gt;&lt;/li&gt;
@@ -64,32 +247,51 @@
 &lt;li&gt;&lt;a href=&#34;https://justiceresearch.usm.maine.edu/research-library/&#34;&gt;Maine Statistical Analysis Center&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Maine Department of Corrections &lt;a href=&#34;https://www.maine.gov/corrections/about/best-practices/reports-statistical-data&#34;&gt;Reports &amp;amp; Statistical Data page&lt;/a&gt;, &lt;a href=&#34;https://www.maine.gov/corrections/sites/maine.gov.corrections/files/inline-files/March%202022%20Monthly%20Adult%20Data%20Report_1.pdf&#34;&gt;monthly report&lt;/a&gt; and &lt;a href=&#34;https://www.maine.gov/corrections/sites/maine.gov.corrections/files/inline-files/2021%20Year%20End%20Adult%20Data%20Report.pdf&#34;&gt;yearly report&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Attitudes towards parole&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Survey data on lyceum.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Tobacco-use among immigrants in Maine</title>
+      <title>Understanding tobacco-use and smoke exposure among immigrants in Maine</title>
       <link>/project/akhss-project/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/project/akhss-project/</guid>
-      <description>&lt;p&gt;Understanding tobacco-use among recent immigrants and refugees in Maine.&lt;/p&gt;
-&lt;p&gt;This project is in partnership with &lt;a href=&#34;https://akhss.org&#34;&gt;Ak Health and Social Services&lt;/a&gt;, a Lewiston-based nonprofit that connects recent immigrants and refugees with social services such as COVID-19 testing, vaccinations, counseling services, emotional support, need assessments and workforce development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lyme Disease in Maine</title>
-      <link>/project/lyme-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/lyme-project/</guid>
-      <description>&lt;p&gt;In partnership with &lt;a href=&#34;https://mmcri.org/?page_id=1090&#34;&gt;Maine Medical Center Research Institute&amp;rsquo;s Lyme and Vector-Borne Disease Lab&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lyme disease is a debilitating bacterial infection that affects more than X people each year. Spread through ticks, Mass vaccination can greatly reduce the burden of vaccine-preventable diseases such as rabies, however, there is relatively little scientific guidance as to how long control programmes must operate and how they should be best implemented to achieve elimination. My PhD and Postdoc focused on two pivotal questions in infectious disease ecology:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;What are the underlying determinants of disease persistence?&lt;/li&gt;
-&lt;li&gt;How can vaccination strategies be optimised to eliminate infection?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;To answer these questions, I analysed a rich and highly resolved spatial dataset of fox rabies cases and oral rabies vaccination (ORV) programmes throughout Western Europe. The long-term, large-scale nature of these data provides a unique opportunity to improve our understanding of wildlife rabies dynamics in response to vaccination using novel spatial modeling techniques.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://akhss.org&#34;&gt;AK Health and Social Services&lt;/a&gt; is a community based nonprofit organization that provides  services to immigrants, refugees, asylum seekers and BIPOC communities in culturally and linguistically appropriate ways. Currently they have eight active programs/projects that provide  essential services to immigrant’s refugees asylum seekers, and BIPOC communities including Workforce development, Covid-19 Social support, Vaccination Support, Public Health  Education and Outreach, Resettlement and Refugees Services, After school programs, small  business support, Food support and security, Community and Family support services and  General social services.&lt;/p&gt;
+&lt;p&gt;In partnership with the MaineHealth Center for Tobacco Independence (CTI), AK Health and Social Services are reviewing the cultural context, societal structures and experiences with acculturation that inform/predict exposure and current/future use of tobacco by Maine’s immigrant and refugee individuals, families and communities. For the purposes of the study, the term “immigrants” is inclusive of individuals, families and communities that are/or identify as immigrants, refugees, asylum seekers, undocumented people, and their children/family members from diverse countries, all of whom are living throughout Maine.&lt;/p&gt;
+&lt;p&gt;The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine and present the results in a report summarizing the key findings. The survey asks participants to reflect on the usage of tobacco before and after coming to the US as part of a broader project by CTI and the Center for Disease Control (CDC) which looks to study questions including but not limited to:&lt;/p&gt;
+&lt;p&gt;∙ How does acculturation affect patterns of tobacco use and exposure among immigrants in Maine?&lt;br&gt;
+∙ How does gender and other factors impact tobacco use among members of certain immigrants  (country of origin, religion, shared culture, etc.)?&lt;br&gt;
+∙ What protective factors and risk factors promote the development of culturally appropriate  interventions to prevent and control tobacco use?&lt;br&gt;
+∙ And to what extent are culturally specific tobacco control programs necessary to curb or prevent  initiation of tobacco use among racial/ethnic populations?&lt;/p&gt;
+&lt;p&gt;In the project, students will analyze survey data from more than 150 respondents consisting of 7 questions for non-tobacco users and 20 questions for tobacco users. The aim of the project is to visualize and statistically compare the survey results. Preliminary questions explored in the data could include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How common is tobacco use among respondents? How does this vary by gender and geographic origin?&lt;/li&gt;
+&lt;li&gt;How did tobacco use change before and after respondent&amp;rsquo;s arrival in the U.S.?&lt;/li&gt;
+&lt;li&gt;Did a respondent&amp;rsquo;s tobacco use change or influence their personal or religious views?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-skills-you-can-expect-to-learn&#34;&gt;What skills you can expect to learn:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing, cleaning and working with survey data, including free text.&lt;/li&gt;
+&lt;li&gt;Data Visualization and Communication of Public Health information&lt;/li&gt;
+&lt;li&gt;Report writing using Rmarkdown&lt;/li&gt;
+&lt;li&gt;Statistical analysis techniques applied to health data&lt;/li&gt;
+&lt;li&gt;Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing survey data from start to finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;These resources are a starting place which you can add to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.who.int/data/gho/data/themes/topics/sdg-target-3_a-tobacco-control&#34;&gt;Global Health Organization: Overview of Tobacco Use and Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov/tobacco/&#34;&gt;CDC Smoking and Tobacco Use&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov/statesystem/interactivemaps.html&#34;&gt;State Tobacco Activities Tracking and Evaluation System &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://epirhandbook.com/en/survey-analysis.html&#34;&gt;Survey Analysis in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-turing-way.netlify.app/reproducible-research/open/open-data.html&#34;&gt;Data Privacy Considerations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html&#34;&gt;Personal Data Management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;p&gt;Data will be distributed to the team during class.&lt;/p&gt;
 </description>
     </item>
     

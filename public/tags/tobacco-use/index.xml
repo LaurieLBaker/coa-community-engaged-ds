@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobacco use | DCS 210</title>
+    <link>/tags/tobacco-use/</link>
+      <atom:link href="/tags/tobacco-use/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobacco use</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Tobacco use</title>
+      <link>/tags/tobacco-use/</link>
+    </image>
+    
+    <item>
+      <title>Understanding tobacco-use and smoke exposure among immigrants in Maine</title>
+      <link>/project/akhss-project/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/project/akhss-project/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://akhss.org&#34;&gt;AK Health and Social Services&lt;/a&gt; is a community based nonprofit organization that provides  services to immigrants, refugees, asylum seekers and BIPOC communities in culturally and linguistically appropriate ways. Currently they have eight active programs/projects that provide  essential services to immigrant’s refugees asylum seekers, and BIPOC communities including Workforce development, Covid-19 Social support, Vaccination Support, Public Health  Education and Outreach, Resettlement and Refugees Services, After school programs, small  business support, Food support and security, Community and Family support services and  General social services.&lt;/p&gt;
+&lt;p&gt;In partnership with the MaineHealth Center for Tobacco Independence (CTI), AK Health and Social Services are reviewing the cultural context, societal structures and experiences with acculturation that inform/predict exposure and current/future use of tobacco by Maine’s immigrant and refugee individuals, families and communities. For the purposes of the study, the term “immigrants” is inclusive of individuals, families and communities that are/or identify as immigrants, refugees, asylum seekers, undocumented people, and their children/family members from diverse countries, all of whom are living throughout Maine.&lt;/p&gt;
+&lt;p&gt;The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine and present the results in a report summarizing the key findings. The survey asks participants to reflect on the usage of tobacco before and after coming to the US as part of a broader project by CTI and the Center for Disease Control (CDC) which looks to study questions including but not limited to:&lt;/p&gt;
+&lt;p&gt;∙ How does acculturation affect patterns of tobacco use and exposure among immigrants in Maine?&lt;br&gt;
+∙ How does gender and other factors impact tobacco use among members of certain immigrants  (country of origin, religion, shared culture, etc.)?&lt;br&gt;
+∙ What protective factors and risk factors promote the development of culturally appropriate  interventions to prevent and control tobacco use?&lt;br&gt;
+∙ And to what extent are culturally specific tobacco control programs necessary to curb or prevent  initiation of tobacco use among racial/ethnic populations?&lt;/p&gt;
+&lt;p&gt;In the project, students will analyze survey data from more than 150 respondents consisting of 7 questions for non-tobacco users and 20 questions for tobacco users. The aim of the project is to visualize and statistically compare the survey results. Preliminary questions explored in the data could include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How common is tobacco use among respondents? How does this vary by gender and geographic origin?&lt;/li&gt;
+&lt;li&gt;How did tobacco use change before and after respondent&amp;rsquo;s arrival in the U.S.?&lt;/li&gt;
+&lt;li&gt;Did a respondent&amp;rsquo;s tobacco use change or influence their personal or religious views?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-skills-you-can-expect-to-learn&#34;&gt;What skills you can expect to learn:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Importing, cleaning and working with survey data, including free text.&lt;/li&gt;
+&lt;li&gt;Data Visualization and Communication of Public Health information&lt;/li&gt;
+&lt;li&gt;Report writing using Rmarkdown&lt;/li&gt;
+&lt;li&gt;Statistical analysis techniques applied to health data&lt;/li&gt;
+&lt;li&gt;Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing survey data from start to finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;These resources are a starting place which you can add to.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.who.int/data/gho/data/themes/topics/sdg-target-3_a-tobacco-control&#34;&gt;Global Health Organization: Overview of Tobacco Use and Control&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov/tobacco/&#34;&gt;CDC Smoking and Tobacco Use&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cdc.gov/statesystem/interactivemaps.html&#34;&gt;State Tobacco Activities Tracking and Evaluation System &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://epirhandbook.com/en/survey-analysis.html&#34;&gt;Survey Analysis in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-turing-way.netlify.app/reproducible-research/open/open-data.html&#34;&gt;Data Privacy Considerations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html&#34;&gt;Personal Data Management&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data&#34;&gt;Data&lt;/h3&gt;
+&lt;p&gt;Data will be distributed to the team during class.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

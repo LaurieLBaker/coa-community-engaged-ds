@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Posts</title>
@@ -208,11 +208,23 @@
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Submit Weekly Reflections&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Fri, 20 May, 23:59 EST&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Due next week&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;R 01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Submit Final Reports and Code&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Thu, 26 May, 23:59 EST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;PDP 03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Submit Final PDP Progress Reflections&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Thu, 26 May, 23:59 EST&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;| &lt;em&gt;Due next week&lt;/em&gt; | | |
-| R 01 | &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Submit Final Reports and Code&lt;/a&gt; | Thu, 26 May, 23:59 EST |
-| PDP 03 | [Submit Final PDP Progress Reflections(https://lyceum.bates.edu/login/index.php) | Thu, 26 May, 23:59 EST |&lt;/p&gt;
 &lt;h3 id=&#34;readings&#34;&gt;Readings&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -392,81 +404,8 @@
 &lt;img src=&#34;/post/00-overview/index_files/figure-html/schedule-1.png&#34; width=&#34;100%&#34; /&gt;
 &lt;h3 id=&#34;tasks&#34;&gt;Tasks&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Visit the course on &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Lyceum&lt;/a&gt; to join RStudio Cloud&lt;/li&gt;
-&lt;li&gt;Complete the &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Getting to know you survey on lyceum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a community rule to the google doc on &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Lyceum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Complete the &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Project interests and getting to know you survey on lyceum&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;class-activities&#34;&gt;Class Activities&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:120px;text-align:left&#34;&gt;Activity&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:340px;text-align:left&#34;&gt;Title&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:200px;text-align:left&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Intro&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Welcome to Community-Engaged Data Science&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Mon, 2 May&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;assignments&#34;&gt;Assignments&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:120px;text-align:left&#34;&gt;Assignment&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:340px;text-align:left&#34;&gt;Title&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:200px;text-align:left&#34;&gt;Due&lt;/div&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Due this week&lt;/em&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;R 01&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Personal Development Plan&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Wed, 6 May, 23:59 EST&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;E 01&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Ethics Assessment&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Fri, 8 May, 23:59 EST&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Due next week&lt;/em&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;readings&#34;&gt;Readings&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;div style=&#34;width:50px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;div style=&#34;width:420px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;div style=&#34;width:200px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;📄&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;/#syllabus&#34;&gt;Course syllabus&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;📖&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://the-turing-way.netlify.app/project-design/pd-overview/pd-overview-planning.html&#34;&gt;Planning for Project Design, The Turing Way&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 </description>
     </item>
     
@@ -477,10 +416,9 @@
       <guid>/post/01-week/</guid>
       <description>&lt;h4 id=&#34;tasks&#34;&gt;Tasks&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Visit the course on &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Lyceum&lt;/a&gt; to join RStudio Cloud.&lt;/li&gt;
-&lt;li&gt;Complete the &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Getting to know you survey on lyceum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sign up for morning tutorials.&lt;/li&gt;
-&lt;li&gt;Submit your personal development plan (PDP) and sign up for a meeting slot.&lt;/li&gt;
+&lt;li&gt;Visit the course on &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Lyceum&lt;/a&gt; to join RStudio Cloud (link coming shortly).&lt;/li&gt;
+&lt;li&gt;Complete the &lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Project Preferences and getting to know you survey on lyceum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Submit your personal development plan (PDP), sign up for morning tutorials, and sign up for a meeting slot to discuss your PDP.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;joint-class-activities&#34;&gt;Joint Class Activities&lt;/h3&gt;
 &lt;table&gt;
@@ -525,13 +463,13 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Field Trip&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;NECSA/Manoment Project: Sampling Field Trip&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Fri, 6 May&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Library trip&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;MPAC library newspaper search&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Thu, 5 May&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Field Trip&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;NECSA/Manoment Project: Sampling Field Trip&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Fri, 6 May&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -562,7 +500,7 @@
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;RStudio, tidy data and dplyr verbs&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Thu, 5 May&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;9.00-10.30 am&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;10.30-12.00 am&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;DCS Lounge&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -590,18 +528,18 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;PDP 01&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Personal Development Plan&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://forms.gle/LqGXuk4CKatjxtHaA&#34;&gt;Personal Development Plan&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tue, 3 May, 23:59 EST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;TC 01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Team Contract&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Wed, 4 May, 23:59 EST&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;PM 01&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Project Plan and Kanban&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Thu, 7 May, 23:59 EST&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;E 01&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lyceum.bates.edu/login/index.php&#34;&gt;Team Contract&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Fri, 8 May, 23:59 EST&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Due next week&lt;/em&gt;&lt;/td&gt;
