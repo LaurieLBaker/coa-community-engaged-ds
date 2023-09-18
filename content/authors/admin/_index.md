@@ -11,7 +11,7 @@ social:
   link: https://github.com/
 - icon: r-project
   icon_pack: fab
-  link: https://rstudio.cloud/
+  link: https://posit.cloud/
 - icon: question-circle
   icon_pack: fas
   link: https://lyceum.bates.edu/
