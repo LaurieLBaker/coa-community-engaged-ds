@@ -1,18 +1,20 @@
 ---
-date: "2022-04-25 T00:00:00Z"
+date: "2023-09-24 T00:00:00Z"
 external_link: ""
 image:
-  caption: Sign saying "Beware of ticks with hikers walking through woods in the background."
+  caption:Image of a river herring sitting on a measuring plate, surrounded by a bucket, pen, data tags, and a butter knife. In the background is a basket of herring. Photo credit: Baliey Bowden.
   focal_point: Smart
 links:
 slides: 
 summary: 
 tags:
-- epidemiology
-- reporting
-- passive surveillance
-- lyme disease
-- ticks
+- River herring
+- Co-management
+- Alewife
+- Blue back herring 
+- Herring 
+- Community 
+- Fisheries
 title: Maine River Herring Network
 publishDate: "2022-04-25T00:00:00Z"
 ---
@@ -56,19 +58,23 @@ Source: [The Maine Tracking Network](https://gateway.maine.gov/cognos/cgi-bin/co
 
 These resources are a starting place which you can add to.
 
-**Ticks and Lyme Disease**
-- [Ticks and tick-borne diseases reference sheet](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/documents/tick-reference-guide.pdf)
-- [Tick ecology and tick testing](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/lyme/tick-ecology-and-tick-testing.shtml)
+**River Herring**
+- [The River Herring Network](https://www.gomriverherringnetwork.org/)
 
-- [Tick attachment and tickborne diseases](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/lyme/tick-attachment-and-tickborne-diseases.shtml)
+- [Maine DMR's Sea Run Fisheries Page](https://www.maine.gov/dmr/fisheries/sea-run-fisheries)
 
-- [Tick diseases and symptoms](https://www.cdc.gov/ticks/diseases/)
 
-**Geocomputation and Geospatial Health Data**
+**Community and Historical Resources**
 
-- [Geocomputation with R by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow](https://geocompr.robinlovelace.net/index.html)
-- [Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny by Paula Moraga](https://www.paulamoraga.com/book-geospatial/)
+- [Student Project on River Herring Co-management](https://storymaps.arcgis.com/stories/1d6e545864c048b9a64f4b2ccb94df16)
+
+- [A Watershed Moment—Film About River Herring Restoration on the Bagaduce](https://www.youtube.com/watch?v=CT7Ax5aTwSc)
+
+For historical context on the river herring fishery see the [Downeast Fisheries Trail](http://www.downeastfisheriestrail.org/) website’s [Fisheries Then—by Natalie Springuel and Julia Beaty](http://www.downeastfisheriestrail.org/fisheries-then/alewives-and-blueback-herring/), and [Fisheries Now—by Julia Beaty](http://www.downeastfisheriestrail.org/fisheries-now/alewives-and-blueback-herring/).
+
+For more COA adventures with River Herring see [this article by Emma Ober](https://marinestudiesatcoa.wordpress.com/2020/02/28/rights-to-a-river-fish-without-water-and-people-without-food/); [this one done by Katie Clark, Melisa Chan, and Meret Jucker](https://marinestudiesatcoa.wordpress.com/2016/04/28/alewives-and-spring-cleaning/); [this one by Savannah Bryant and Emma Kimball](https://marinestudiesatcoa.wordpress.com/2016/06/10/the-times-are-a-changin/); and [these videos done by Annaleena Vaher](https://marinestudiesatcoa.wordpress.com/2020/02/15/diadromous-fish-videos-elvers-alewives-somesville-and-downeast-maine/). 
+
 
 ### Acknowledgments
 
-Special thanks to [Matt Clayton '23](https://github.com/mlclayton6) for finding, preparing and creating initial visualizations and maps of the data. 
+Special thanks to [Sophie Chivers '24](https://github.com/schivers24) for finding, preparing and creating initial visualizations and maps of the data. 
