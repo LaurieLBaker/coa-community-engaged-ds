@@ -2,9 +2,9 @@
 
 name: Community-Engaged Data Science
 organizations:
-- name: Bates College
-  url: "https://lyceum.bates.edu/"
-role: Short-term 2022
+- name: College of the Atlantic
+  url: "https://classroom.google.com"
+role: Spring 2023
 social:
 - icon: github
   icon_pack: fab
@@ -14,10 +14,10 @@ social:
   link: https://posit.cloud/
 - icon: question-circle
   icon_pack: fas
-  link: https://lyceum.bates.edu/
+  link: https://classroom.google.com/
 - icon: university
   icon_pack: fas
-  link: https://lyceum.bates.edu/
+  link: https://classroom.google.com/
   
 superuser: true
 ---

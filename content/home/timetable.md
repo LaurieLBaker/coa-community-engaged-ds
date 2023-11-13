@@ -23,14 +23,14 @@ subtitle = "Afternoons: Project Work. Morning: Optional Tutorials."
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Tuesday, Wednesday"
-  description = "Project work and meetings with community partners"  
+  name = "Wednesday"
+  description = "Project work"  
 
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Thursday"
-  description = "Presentations"  
+  description = "Project work and meetings with community partners"  
   
 
 

@@ -2,7 +2,7 @@
 date: "2022-04-25 T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "Aerial View of the Penobscot. The river with the double curve. Photo by Angie Reed"
   focal_point: Smart
 links:
 - icon: twitter
