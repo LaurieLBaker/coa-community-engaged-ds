@@ -24,43 +24,118 @@ url_slides: ""
 url_video: ""
 ---
 
-[AK Health and Social Services](https://akhss.org) is a community based nonprofit organization that provides  services to immigrants, refugees, asylum seekers and BIPOC communities in culturally and linguistically appropriate ways. Currently they have eight active programs/projects that provide  essential services to immigrant’s refugees asylum seekers, and BIPOC communities including Workforce development, Covid-19 Social support, Vaccination Support, Public Health  Education and Outreach, Resettlement and Refugees Services, After school programs, small  business support, Food support and security, Community and Family support services and  General social services. 
+The people of where the rocks widen, also known as the [Pαnawαhpsekewi](https://penobscot-dictionary.appspot.com/entry/4617620540096512/) (Penobscot) Nation, are deeply connected to their relative, the Pαnawάhpskewtəkok (Penobscot) River, with whom they share an identity and for whom they have a responsibility to care and protect. Nə̀pi (water) represents life and their love for the River is deeply personal and rooted in their culture and beliefs. The Penobscot water song describes the foundation of efforts to protect the health and well-being of the Penobscot River relative and an [mp3 can be downloaded for free](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-n%c9%99pi-song/).
 
-In partnership with the MaineHealth Center for Tobacco Independence (CTI), AK Health and Social Services are reviewing the cultural context, societal structures and experiences with acculturation that inform/predict exposure and current/future use of tobacco by Maine’s immigrant and refugee individuals, families and communities. For the purposes of the study, the term “immigrants” is inclusive of individuals, families and communities that are/or identify as immigrants, refugees, asylum seekers, undocumented people, and their children/family members from diverse countries, all of whom are living throughout Maine. 
+The [Penobscot Nation’s](https://www.penobscotnation.org/) [Water Resource Program](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/) (PNWRP) has a mission to “protect, enhance, and restore water quality and aquatic resources, and related aquatic ecosystems of the Nation's territories so that tribal members may fully carry out tribal traditional cultural practices and lifeways.” A big part of this mission starts with water quality monitoring, data collection and analysis of water samples to assess the health of water bodies. Because of the Maine Indian Claims Settlement Act of 1980, there are jurisdictional issues that prevent PNWRP from getting their water quality standards approved by the Environmental Protection Agency (EPA) which has a trust responsibility to all Native Nations (see [“Tribal Sovereignty and the Problem of Difference in Environmental Regulation: Observations on “Measured Separatism” in Indian Country”](https://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view?usp=drive_link) for background).  Consequently, PNWRP primarily compares monitoring data to the [Maine Department of Environmental Protection water quality standards](https://www.mainelegislature.org/legis/statutes/38/title38sec465.html).  The most common standards for waters are those for dissolved oxygen and *E. coli* bacteria.
 
-The goal of this community project is to analyze responses from a survey assessing tobacco use and exposure to second hand smoke amongst immigrant communities in Maine and present the results in a report summarizing the key findings. The survey asks participants to reflect on the usage of tobacco before and after coming to the US as part of a broader project by CTI and the Center for Disease Control (CDC) which looks to study questions including but not limited to: 
+Current monitoring efforts by the Penobscot Nation Department of Natural Resources include the direct measurement and water sample collection at [66 river sites, 47 tributary sites, and 21 sites on 11 lakes](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-quality-sampling-sites/). For these, bottles are prepared in advance with labels printed with specific QR codes so that each sample bottle can be automatically timestamped and precisely located with a smartphone during field work. Numerous variables are measured directly in the field and some water samples are processed in the laboratory. All collected data is downloaded, reviewed and approved  and can then be analyzed and used for various purposes, such as general outreach, fish consumption advisories, dam removal analysis, stream temperature modeling, quality reports, rulemaking, and legislation, among others. The following diagram visualizes the current data life cycle during this process.
 
-∙ How does acculturation affect patterns of tobacco use and exposure among immigrants in Maine?  
-∙ How does gender and other factors impact tobacco use among members of certain immigrants  (country of origin, religion, shared culture, etc.)?  
-∙ What protective factors and risk factors promote the development of culturally appropriate  interventions to prevent and control tobacco use?  
-∙ And to what extent are culturally specific tobacco control programs necessary to curb or prevent  initiation of tobacco use among racial/ethnic populations? 
+<figure>
+    <img src="/img/data_lifecycle.png"
+         alt="Diagram of the Water Quality Data Lifecycle">
+    <figcaption>Figure 1. Diagram of the water quality monitoring data lifecycle.</figcaption>
+</figure>
 
-In the project, students will analyze survey data from more than 150 respondents consisting of 7 questions for non-tobacco users and 20 questions for tobacco users. The aim of the project is to visualize and statistically compare the survey results. Preliminary questions explored in the data could include:
+### Part 1 - New methodology for water quality control and reports
 
-- How common is tobacco use among respondents? How does this vary by gender and geographic origin?
-- How did tobacco use change before and after respondent's arrival in the U.S.?
-- Did a respondent's tobacco use change or influence their personal or religious views?
+For this community project, students will work in partnership with the Penobscot Nation Water Resources Planner to help develop a new methodology for compiling and processing quality controls of water samples in R. They will strive to create an automated workflow and template to generate field and laboratory summary reports for water quality assessments, comparing the results against standards for each site and waterbody in the form of Quarto documents. These reports will be used internally by the Water Resources Program and are intended to be used for assessment of accuracy and completeness in field and lab results. These reports have been created in Access in the past, and the major goal of this project is to create an R-based workflow.
 
-### What skills you can expect to learn:
+#### Field Reports 
 
-- Importing, cleaning and working with survey data, including free text.
-- Data Visualization and Communication of Public Health information
-- Report writing using Rmarkdown
-- Statistical analysis techniques applied to health data
-- Knowledge exchange including documenting and sharing coding knowledge with community partners on analyzing survey data from start to finish. 
+Some major components of this project are to:
+- Flag missing or repetitive data
+- Flag data from different attributes that is not consistent with the attribute’s standards, using the guidelines in the [Quality Control Flags document](https://docs.google.com/document/u/0/d/1BiPaPOQ_vdUSrXmQW1RVlDJ8tk_J85twW5oonoxCqgI/).
+- Create a single file summary report for each run by date and primary collector using Quarto. Each file should also be further divided with headings for each site, and contain the following sections:
+- A header section with all relevant site information
+- A sample table displaying the information about all bottles collected 
+- A result table with all measurements taken in the field
+- A filter table for any sites that have a chlorophyll a sample collected and is filtered by us
+- A summary of flags checked [additional table]
+- Create a function to automate the creation of these summary reports by run, date and collector. 
+- An example of a previous report and its various sections is presented below to give an idea of the format and information to strive for. More examples of these reports, notably including some filter tables can be found in the Water Quality Project Resources Folder.
 
-### Resources
+<figure>
+    <img src="/img/field_report_ex.jpeg"
+         alt="Example Field Report">
+    <figcaption>Figure 2. Example water quality field report.</figcaption>
+</figure>
 
-These resources are a starting place which you can add to.
+### Laboratory Reports
 
-* [Global Health Organization: Overview of Tobacco Use and Control](https://www.who.int/data/gho/data/themes/topics/sdg-target-3_a-tobacco-control)
-* [CDC Smoking and Tobacco Use](https://www.cdc.gov/tobacco/)
-* [State Tobacco Activities Tracking and Evaluation System ](https://www.cdc.gov/statesystem/interactivemaps.html)
-* [Survey Analysis in R](https://epirhandbook.com/en/survey-analysis.html)
-* [Data Privacy Considerations](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html)
-* [Personal Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html)
+Some major components of this project are to:
+- Summarize all lab data for a particular year
+- Calculate and create columns for violations in:
+    - Transportation temperature.
+    - Holding time.
+    - Analysis time for Coliform and *E. coli*
+    - Flag data from different attributes that is not consistent with the attribute’s standards, using the guidelines in the Quality Control Flags document.
+- Parametrize and format single file summary reports in Quarto based on constituent, date, and run. 
+- Create a function to automate the creation of these summary reports.
 
-### Data
+An example of a previous report and its various sections is presented in Figure 3. 
 
-Data will be distributed to the team during class.
+<figure>
+    <img src="/img/lab_report_ex.png"
+         alt="Example Lab Report">
+    <figcaption>Figure 3. Example water quality lab report.</figcaption>
+</figure>
 
+## Part 2 - E. coli bacteria assessment
+
+Another goal for this community project is to help create a workflow to assess the surface water quality in terms of E.Coli bacteria colonies. In Maine, there are two different sets of regulations in place based on water quality class and type of water body. These criteria necessitate the analysis of the geometric mean of water samples over a 90 days rolling period. 
+
+The Maine Department of Environmental Protection (DEP) makes calculations of these rolling averages using a spreadsheet in order to assess if the water bodies meet the water quality standards. Some code has already been developed in the past by the PIN water quality team in order to create these 90 days rolling averages in a more automated way. However, results vary depending on the starting day of the rolling average, which is why further exploration would be necessary to determine the most accurate way to create these rolling averages, which may or may not match the process used by DEP but will be compared to it.
+
+Some major goals for this project are to:
+- Reformat the DEP data to run it in the previously written 90 days rolling average script from the PIN water quality team. This [E.Coli DEP data](https://docs.google.com/spreadsheets/u/0/d/17HTmQE2y2XR6Tjc7ncc_QDgZUnl0bQAVpl6Q3Ja-afU/) is a document that can serve as the starting point of extracting the DEP data from [DEP Calculations](https://docs.google.com/spreadsheets/d/1YPmjdOrnRwm3jmaH5JHdsHOIxAJq1nm3/edit?usp=sharing&ouid=103025896944680736072&rtpof=true&sd=true) to allow it to run in the E.Coli code already written. It might be necessary to simplify the code to only include the variables that are available in the DEP data. 
+- Compare the results of that process to the results gotten from the calculations of the DEP spreadsheet. If results are different, modify the code from the script to make the results from running the script the same as the ones from the DEP calculations. 
+- Explore the differences in results when starting the rolling average on different days (Eg: starting the rolling average on the sampling day).
+- Explore the differences in results when creating the 90 days rolling average backwards. (Eg: starting the rolling average 90 days before the last sampling day).
+- Investigate how the results are influenced by these different starting points. The ultimate goal is to understand what the variability in results means to propose an optimal technique for choosing when to start the rolling average.
+- Explore how the results change over a 90 days period based on the number of water samples collected. The ultimate goal is to figure out if there is an optimal number of samples to collect and use in this process. 
+
+## What skills you can expect to learn
+- Workflow creation for automatically inputting water quality data and comparing it to established standards.
+- Water quality report formatting and creation using Quarto
+- Automation of report creation
+- Project report writing using RMarkdown
+- Knowledge exchange including documenting and sharing coding knowledge with community partner
+- Teamwork and troubleshooting skills to contribute to the achievement of the community partner project goal
+
+## Data
+[add link to class GitHub with dataset description and codebook]
+
+## Resources
+
+### Water Quality Project Background
+- Article: [Native American and Other Experts Monitor Penobscot Watershed in Maine](https://esal.us/penobscot-watershed-in-maine/)
+- StoryMap: [Tribal Nations & Exchange Network](https://storymaps.arcgis.com/stories/f94a8d18d282464093d5a93b320d2321)
+- Water Quality Project Resources Folder
+
+### Bacteria Regulations
+- [2018 / 2020 / 2022 Integrated Water Quality Monitoring and Assessment Report](https://www.maine.gov/dep/water/monitoring/305b/2022/25-May-2022_2018-22_ME_IntegratedRpt-REPORT%20(002).pdf): see p57-63  for  Bacteria Criteria for Fresh, Estuarine  and Marine Waters.
+- [Maine Legislature for Penobscot River](http://www.mainelegislature.org/legis/statutes/38/title38sec465.html) *E. coli* analysis
+
+### Quarto Resources
+- [Hello Quarto Tutorial](https://quarto.org/docs/get-started/hello/rstudio.html): Great introductory video on how to optimize and navigate a source Quarto document and render it to a variety of output formats. 
+- [Guide to Quarto](https://quarto.org/docs/guide/): Comprehensive guide to using Quarto.
+- [R for Data Science (2e)](https://r4ds.hadley.nz/quarto): Quarto: Quarto basics and overview
+- [Building a reporting infrastructure with Quarto](https://posit.co/blog/building-a-reporting-infrastructure-with-quarto/): Tips for efficient reporting infrastructure creation
+- [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/): Example of parameterizing a report and connecting it to a database
+- [Quarto Q&A](https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/): How to have labels and captions for an unknown number of tables?: Blog post with code for automatic labels and captions for multiple tables in Quarto. 
+- [Creating tables with gt()](https://gt.rstudio.com/reference/index.html).
+
+### DataRetrieval Water Quality Portal (WQP)
+- [WQP User Guide](https://www.waterqualitydata.us/portal_userguide/)
+- [dataRetrieval tutorial (WQP)](https://acwi.gov/monitoring/conference/2016/0_monday_may2/A1B1/dataRetrieval%20Tutorial_secure.pdf)
+- [Water Quality Portal](https://www.waterqualitydata.us/)
+
+## Internship Opportunity
+
+Following this spring class, one student will have the opportunity to continue working on this project through a paid internship totaling 320 hours over 8 weeks. The internship position will require 40 hours of work per week, running from approximately June 10th to August 2nd. 
+
+Some goals of this internship will notably include polishing and wrapping up the class project, followed by a pivot to a broader involvement in the entire water quality process. The internship is likely to encompass a field component, involving sample processing in the lab, as well as data entry and management. The student will also focus on developing efficient ways to display and communicate results, notably by working on a ShinyApp and creating visualizations.
+
+## Acknowledgements
+
+Special thanks to Delphine Demaisy '26 for putting together the project description and compiling the codebook and early report templates.
