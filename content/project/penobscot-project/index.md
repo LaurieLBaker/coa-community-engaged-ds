@@ -2,7 +2,7 @@
 date: "2022-04-25 T00:00:00Z"
 external_link: ""
 image:
-  caption: "Aerial View of the Penobscot. The river with the double curve. Photo by Angie Reed"
+  caption: "Aerial View of the Penobscot. The river with the double curve. Photo from Angie Reed"
   focal_point: Smart
 links:
 - icon: twitter
@@ -103,7 +103,8 @@ Some major goals for this project are to:
 - Teamwork and troubleshooting skills to contribute to the achievement of the community partner project goal
 
 ## Data
-[add link to class GitHub with dataset description and codebook]
+
+Access the project on [github](https://github.com/LaurieLBaker/CEDS2024-Penobscot-Water) and find out more about the data in the [codebook](https://github.com/LaurieLBaker/CEDS2024-Penobscot-Water/tree/main/data).
 
 ## Resources
 
@@ -138,4 +139,4 @@ Some goals of this internship will notably include polishing and wrapping up the
 
 ## Acknowledgements
 
-Special thanks to Delphine Demaisy '26 for putting together the project description and compiling the codebook and early report templates.
+Special thanks to [Delphine Demaisy '26](https://github.com/ddemaisy) for putting together the project description and compiling the codebook and field report template in Quarto.
