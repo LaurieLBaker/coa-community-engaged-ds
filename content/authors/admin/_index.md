@@ -4,7 +4,7 @@ name: Community-Engaged Data Science
 organizations:
 - name: College of the Atlantic
   url: "https://classroom.google.com"
-role: Spring 2023
+role: Spring 2024
 social:
 - icon: github
   icon_pack: fab
@@ -26,4 +26,4 @@ Students will work in multi-disciplinary teams on a research problem identified 
 
 This course emphasizes putting knowledge into practice, including going beyond individual fields of study to solve real world problems and understand community partner needs. Students will build skills in project management, using agile methodologies and weekly meetings with community partners designed to foster co-development and iterative and incremental project delivery.
 
-Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving. 
+Students will develop their mathematical and programming skills as well as skills and traits valued by employers of STEM professionals, such as teamwork, reproducible analysis, effective communication, independent thinking, and problem solving.
