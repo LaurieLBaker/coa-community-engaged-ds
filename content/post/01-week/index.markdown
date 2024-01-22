@@ -1,7 +1,7 @@
 ---
-title: 'Week 1 Project Design'
+title: 'Week 1 Project Design and Formation'
 author: ''
-date: '2021-05-01'
+date: '2023-03-31'
 slug: []
 categories: []
 tags: []
@@ -20,49 +20,34 @@ projects: []
 
 #### Tasks
 
-- Visit the course on [Lyceum](https://lyceum.bates.edu/login/index.php) to join RStudio Cloud (link coming shortly).
-- Complete the [Project Preferences and getting to know you survey on lyceum](https://lyceum.bates.edu/login/index.php)
-- Submit your personal development plan (PDP), sign up for morning tutorials, and sign up for a meeting slot to discuss your PDP. 
+- Visit the course on [Google Classroom](https://classroom.google.com/) to join [Posit Cloud](https://posit.cloud/).
+- Complete the [Project Preferences and getting to know you survey on google classroom](https://classroom.google.com/)
+- Start working on your personal development plan (PDP). 
 
-### Joint Class Activities
+### Class Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Intro | Welcome to Community-Engaged Data Science | Mon, 2 May |
-| Workshop | Project Questions and Brainstorming | Tue, 3 May |
-| Workshop | Meeting with project partners  | Wed, 4 May |
-| Workshop | Project Plan and Kanban | Thu, 5 May |
+| Intro | Welcome to Community-Engaged Data Science Project Introduction | Mon, April 1, 1-4 |
+| Project Time | Data Ethics Assessment | Wed, April 3, 2:30-4 |
+| Workshop | Meet the project partners and Introduction to Agile | Thu, April 4, 1-4 |
 
 ### Project Specific Activities
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Library trip | MPAC library newspaper search | Thu, 5 May | 3.00-4.00
-| Field Trip | NECSA/Manoment Project: Sampling Field Trip | Fri, 6 May | 8.00-11.00
-
-
-### Optional Morning Tutorials (sign up as part of PDP)
-
- | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |  <div style="width:120px;text-align:left">Time </div> |
-|:---|:---|:---|:----|
-| Introduction to the community | Tue, 3 May | 10.00-11.00 am |  Harward Center |
-| Personal Development Plan Check-ins | Wed, 4 May | 4.00-5.00 pm | DCS Lounge |
-| RStudio, tidy data and dplyr verbs | Thu, 5 May | 10.30-12.00 am | DCS Lounge |
-| Personal Development Plan Check-ins | Thu, 5 May | 1.00-2.00 pm | DCS Lounge |
-
 
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| PDP 01 | [Personal Development Plan](https://forms.gle/LqGXuk4CKatjxtHaA) | Tue, 3 May, 23:59 EST |
-| TC 01 | [Team Contract](https://lyceum.bates.edu/login/index.php) | Wed, 4 May, 23:59 EST |
-| PM 01 | [Project Plan and Kanban](https://lyceum.bates.edu/login/index.php) | Thu, 7 May, 23:59 EST |
+| TC 01 | [Team Contract](https://classroom.google.com) | Wed, April 3, 23:59 EST |
+| E 01 | [Ethics Assessment](https://classroom.google.com) | Thu,  4 Apr, 23:59 EST |
+| PDP 01 | [Personal Development Plan](https://forms.gle/LqGXuk4CKatjxtHaA) | Sun, 7 Apr, 23:59 EST |
 | *Due next week* | | |
-| E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Tue,  May 12, 23:59 EST |
-| C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
-| PDP 02 | [Personal Development Plan Progress Reflection](https://lyceum.bates.edu/login/index.php) | Fri, 15 May, 23:59 EST |
+| PM 01 | [Project Plan Kanban](https://classroom.google.com) | Mon, 8 Apr, 16:00 EST |
+
 
 ### Readings
 

@@ -7,7 +7,7 @@ weight = 95  # Order that this section will appear.
 title = "Acknowledgements"
 +++
 
-This course takes inspiration from Data Study Groups at the Alan Turing Institute, project management at the Data Science Campus, and a series of workshops on Data Science for Social Good programs. 
+This course was supported by a [Henry David Thoreau Faculty Grant](https://www.thoreauscholar.org/faculty-grant-profiles/community-engaged-data-science-program) awarded to Laurie Baker. This course takes inspiration from Data Study Groups at the Alan Turing Institute, project management at the Data Science Campus, and a series of workshops on Data Science for Social Good programs sponsored by the [e-science institute](https://escience.washington.edu) at the University of Washington. 
 
 This course draws on several resources including the [Turing Way](https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html) and includes featured artwork by [@AllisonHorst](https://github.com/allisonhorst/stats-illustrations) and Scriberia. 
 

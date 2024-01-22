@@ -1,67 +1,45 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Contact widget.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Course Schedule"
+title = "Term Schedule"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 0
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
+
+### Class Activities
+
+|  <div style="width:120px;text-align:left">Week</div> |  <div style="width:120px;text-align:left">Date</div> | <div style="width:120px;text-align:left">Activity</div> | <div style="width:340px;text-align:left">Readings and Assignments</div> |
+|:---|:---|:---|:---|
+| Week One | Monday 4/1 | Welcome to Community-Engaged Data Science | <ul><li>Review the [Projects](/#projects) </li><li>Fill out the project preferences form on [google classroom](https://classroom.google.com)</li></ul>  | 
+|  | Wednesday 4/3 | Data Ethics Assessment | | 
+|  | Thursday 4/4 | Meet the project partners | | 
+| Week Two | Monday 4/8 | First Workshop Hold |  | 
+|  | Wednesday 4/10 | Project Time | | 
+|  | Thursday 4/11 | Project Time | | 
+| Week Three | Monday 4/15 | Sprint Planning and Project Time |  | 
+|  | Wednesday 4/17 | Project Time | | 
+|  | Thursday 4/18 | Partner Check-in | | 
+| Week Four | Monday 4/22 | Sprint Planning and Project Time |  | 
+|  | Wednesday 4/24 | Project Time | | 
+|  | Thursday 4/15 | Second Workshop Hold | | 
+| Week Five | Monday 4/29 | Sprint Planning and Project Time |  | 
+|  | Wednesday 5/1 | Project Time | | 
+|  | Thursday 5/2 | Project Time | | 
+| Week Six | Monday 5/6 | Sprint Planning and Project Time |  | 
+|  | Wednesday 5/8 | Project Time | | 
+| | Thursday 5/9 | Partner Check-in | | 
+| Week Seven | Monday 5/13 | Sprint Planning and Project Time |  | 
+|  | Wednesday 5/15 | Project Time | | 
+| | Thursday 5/16 | Third Workshop Hold | | 
+| Week Eight | Monday 5/20 | Sprint Planning and Project Time |  | 
+| | Wednesday 5/22 | Project Time | | 
+| | Thursday 5/23 | Partner Check-in | | 
+| Week Nine | Monday 5/27 | Sprint Planning and Project Time |  | 
+|  | Wednesday 5/29 | Project Time | | 
+|  | Thursday 5/30 | Final Presentations | | 
+| Week Ten | Monday 5/3 | Sprint Planning and Project Time |  | 
+|  | Wednesday 5/5 | Project Time | |
+|  | Thursday 6/6 | Course Wrap Up | |

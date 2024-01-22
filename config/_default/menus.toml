@@ -11,39 +11,39 @@
 [[main]]
   name = "Schedule"
   url = "#schedule"
-  weight = 42
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 52
+  weight = 42
 
 
 [[main]]
   name = "Syllabus"
   url = "#syllabus"
-  weight = 62
+  weight = 52
 
 [[main]]
   name = "PDP Plan"
   url = "#pdp_plan"
-  weight = 75
+  weight = 62
 
 
 [[main]]
   name = "Help"
   url = "#help"
-  weight = 85
+  weight = 72
 
 [[main]]
   name = "Resources"
   url = "#resources"
-  weight = 90
+  weight = 82
   
 [[main]]
   name = "People"
   url = "#people"
-  weight = 90
+  weight = 92
   
 [[main]]
   name = "<i class='fab fa-github'></i>"
@@ -52,11 +52,11 @@
 
 [[main]]
   name = "<i class='fab fa-r-project'></i>"
-  url = "https://rstudio.cloud"
+  url = "https://posit.cloud"
   weight = 110
 
 [[main]]
   name = "<i class='fas fa-university'></i>"
-  url = "https://lyceum.bates.edu/"
+  url = "https://classroom.google.com"
   weight = 130
   menu_align_right = true

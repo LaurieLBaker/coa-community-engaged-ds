@@ -2,7 +2,7 @@
 # Homepage
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear in.
+weight = 60  # Order that this section will appear in.
 
 title = "Personal Development Plan"
 subtitle = "Defining your learning goals and working towards them."

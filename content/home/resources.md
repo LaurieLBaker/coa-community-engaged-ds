@@ -21,8 +21,8 @@ For programming and statistics you might find the following useful:
 - [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Happy Git with R](https://happygitwithr.com) by Jenny Bryan
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin.
-- [Python for Data Science Resource Board](https://trello.com/b/ukAp9sUg/r-resources-for-data-science)
-- [R for Data Science Resource Board](https://trello.com/b/srJg0sHp/python-resources-for-data-science)
+- [Python for Data Science Resource Board](https://trello.com/b/ukAp9sUg/python-resources-for-data-science)
+- [R for Data Science Resource Board](https://trello.com/b/srJg0sHp/r-resources-for-data-science)
 
 ### Technology:
 

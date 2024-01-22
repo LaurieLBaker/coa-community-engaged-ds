@@ -17,21 +17,19 @@ subtitle = "Afternoons: Project Work. Morning: Optional Tutorials."
 [[feature]]
   icon = "tasks"
   icon_pack = "fas"
-  name = "Monday"
-  description = "Sprint planning and sprint review"
+  name = "Monday 1-4"
+  description = "Sprint planning and project work"
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Wednesday"
-  description = "Project work"  
+  description = "Project work and seminar"  
 
 [[feature]]
   icon = "comments"
   icon_pack = "far"
   name = "Thursday"
-  description = "Project work and meetings with community partners"  
-  
-
+  description = "Project work, workshop and/or meetings with community partners"
 
 +++

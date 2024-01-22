@@ -1,14 +1,14 @@
 ---
-title: 'Week 2 - Exploratory Analysis'
+title: 'Week 2 - Development Phase'
 author: ''
-date: '2021-12-25'
+date: '2023-04-07'
 slug: []
 categories: []
 tags: []
 subtitle: 'Exploratory Data Analysis :bar_chart:'
 summary: 'Exploratory Data Analysis.'
 authors: []
-lastmod: '2021-05-08T11:56:23-04:00'
+lastmod: '2023-04-07T11:56:23-04:00'
 featured: yes
 image:
   caption: 'Fig. 99 The Turing Way community illustrated as a garden. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807. Weblink: https://the-turing-way.netlify.app/_images/community.jpg
@@ -27,29 +27,18 @@ projects: []
 
 | <div style="width:120px;text-align:left">Activity</div> | <div style="width:300px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Workshop | Sprint Planning and Retrospective | Mon, 9 May |
-| Workshop | Project work | Tue, 10 May |
-| Workshop | Project work and partner meetings | Wed, 11 May |
-| Workshop | Project Presentations | Thu, 12 May |
-
-### Optional Morning Tutorials (sign up as part of PDP)
-
- | <div style="width:140px;text-align:left">Title</div> | <div style="width:140px;text-align:left">Date</div> |  <div style="width:140px;text-align:left">Time </div> |  <div style="width:140px;text-align:left">Location </div> |
-|:---|:---|:---|:----|
-| Intro to Git and Github | Mon, 9 May | 11.00-12.00 am | DCS Lounge |
-| Intro to ggplot2 | Tue, 10 May | 9.30-11.30 am | DCS Lounge |
-| Independent Tutorial 1 | Thu, 12 May | 10.00-12.00 pm |  DCS Lounge |
+| Project | Sprint Planning | Mon, 8 Apr |
+| Project | Advanced Github | Wed, 10 Apr |
+| Project | Project work | Thu, 12 April |
 
 ### Assignments
 
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:200px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| E 01 | [Ethics Assessment](https://lyceum.bates.edu/login/index.php) | Tue,  May 12, 23:59 EST |
-| C 01 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 14 May, 23:59 EST |
+| PM 01 | [Project Plan Kanban](https://classroom.google.com) | Mon, 8 Apr, 16:00 EST |
 | PDP 02 | [Personal Development Plan Progress Reflection](https://lyceum.bates.edu/login/index.php) | Fri, 15 May, 23:59 EST |
 | *Due next week* | | |
-| C 02 | [Project Presentations](https://lyceum.bates.edu/login/index.php) | Thu, 21 May, 23:59 EST |
 
 ### Readings
 
