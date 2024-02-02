@@ -19,35 +19,21 @@ As part of the course you will be putting together and designing your own person
 
 These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Time-based). An example of a SMART goal might be:
 
-**Example Goal 1:** Learn to use Github for version control
-**Plan (during course):** 
-
-* Create a GitHub account, 
-* Attend GitHub tutorial, 
-* Practice version control on project (committing, pushing, pulling), 
-* Practice writing good commit messages, 
-* Learn to resolve a merge conflict, 
-* Identify and work through and reflect on areas I still have questions on. 
-* Relevance: Learning GitHub will allow me to collaborate on the project with my teammates. 
-
-**Example Goal 2:** Improve my skills in data visualization
+**Example Goal:** Improve my skills in data visualization
 
 **Plan (during course):** 
-* Attend ggplot2 tutorial, 
 * Work through independent gganimate/RShiny tutorials/leaflet tutorials, 
 * Create a new visualization about the data each week.
 
 Other goals could be: 
+- Learn to use git from the command line. 
 - Learn and implement a machine learning model, 
-- Learn and grow confidence in R programming, 
-- Learn and grow confidence in Python programming, 
 - Explore data science career options, 
 - Improve leadership skills (lead sprint planning, or sprint retrospective, meetings with partners), 
 - Improve science communication writing skills, 
 - Learn about different forms of community engagement, 
-- Learn about the Lewiston community, 
 - Learn and implement text analysis. 
 
 **Support**
 
-There will be several morning tutorials, readings, designed to help you work toward your goals, there will also be open tutorial slots where you can come and work on an independent tutorial. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) and [Python for Data Science](https://trello.com/b/srJg0sHp/python-resources-for-data-science) trello boards can help you get ideas for technical skills. I will help you find materials for the independent tutorials but you can also find your own. I encourage you to attend at least 2 morning tutorials during the course. You may also plan your own tutorial work time outside of the course (signed off by me).
+As part of your pdp plan you will identify readings and tutorials designed to help you work toward your goals. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) and [Python for Data Science](https://trello.com/b/srJg0sHp/python-resources-for-data-science) trello boards can help you get ideas for technical skills.
