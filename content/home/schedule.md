@@ -24,7 +24,7 @@ subtitle = ""
 |  | Thursday 4/18 | Partner Check-in | | 
 | Week Four | Monday 4/22 | Sprint Planning and Project Time |  | 
 |  | Wednesday 4/24 | Project Time | | 
-|  | Thursday 4/15 | Reproducible Reporting Using Quarto (Second Workshop Hold) | | 
+|  | Thursday 4/25 | Reproducible Reporting Using Quarto (Second Workshop Hold) | | 
 | Week Five | Monday 4/29 | Sprint Planning and Project Time |  | 
 |  | Wednesday 5/1 | Project Time | | 
 |  | Thursday 5/2 | Partner Check-in | | 
