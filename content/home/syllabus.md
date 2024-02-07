@@ -21,7 +21,7 @@ The course content is organized in three units:
 - **Week 1 to 2 - Project Planning and Scoping:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, brainstorm ideas and approaches to solving the problem, become familiar with project management techniques and plan the project tasks. 
 - **Week 3 to 8 - Exploring and analyzing the data:** This unit focuses on exploring the data and creating a first mock up of the project for partners.
 - **Week 9 - Final Project Presentations** After completing the exploratory phase, students present their findings and next steps to partners. 
-- **Week 10 - Project hand over** write up the project in a final report and organize code and repositories to hand off the project.
+- **Week 10 - Project Hand Over** write up the project in a final report and organize code and repositories to hand off the project.
 
 ## Learning Objectives 
 
