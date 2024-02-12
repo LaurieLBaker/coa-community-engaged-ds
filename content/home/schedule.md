@@ -22,7 +22,7 @@ subtitle = ""
 | Week Three | Monday 4/15 1-4 | Sprint Planning and Project Time |  | 
 |  | Wednesday 4/17 2:30-4 | Drop-in help session | | 
 |  | Thursday 4/18 1-4 | Partner Check-in | | 
-| Week Four | Monday 4/22 1-4 | Sprint Planning and Project Time |  | 
+| Week Four | Monday 4/22 1-4 | Survey Analysis Workshop with Sahir Advani |  | 
 |  | Wednesday 4/24 2:30-4 | Drop-in help session | | 
 |  | Thursday 4/25 1-4 | Reproducible Reporting Using Quarto (Second Workshop Hold) | | 
 | Week Five | Monday 4/29 1-4 | Sprint Planning and Project Time |  | 
@@ -43,4 +43,4 @@ subtitle = ""
 |  | Thursday 5/30 1-4 | Final Presentations | | 
 | Week Ten | Monday 5/3 1-4 | Project Time |  | 
 |  | Wednesday 5/5 2:30-4 | Drop-in help session | |
-|  | Thursday 6/6 1-4 | Course Wrap Up | |
+|  | Thursday 6/6 1-4 | Developing your data science cover letter and CV with Jeffry Neuhouser  | |
