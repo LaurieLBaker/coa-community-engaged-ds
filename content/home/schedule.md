@@ -37,7 +37,7 @@ subtitle = ""
 | | Saturday 5/18 All Day | Field Trip to Penobscot River | | 
 | Week Eight | Monday 5/20 1-4 | Sprint Planning and Project Time |  | 
 | | Wednesday 5/22 2:30-4 | Project Time | | 
-| | Thursday 5/23 1-4 | Fourth Workshop Hold | | 
+| | Thursday 5/23 1-4 | Creating interactive applications with RShiny with [Johnathan Evanilla](https://www.linkedin.com/in/johnathan-evanilla-904059172) | | 
 | Week Nine | Monday 5/27 1-4 | Sprint Planning and Project Time |  | 
 |  | Wednesday 5/29 2:30-4 | Drop-in help session | | 
 |  | Thursday 5/30 1-4 | Final Presentations | | 
