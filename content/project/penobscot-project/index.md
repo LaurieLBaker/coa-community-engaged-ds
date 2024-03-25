@@ -24,11 +24,11 @@ url_slides: ""
 url_video: ""
 ---
 
-The people of where the rocks widen, also known as the [Pαnawαhpsekewi](https://penobscot-dictionary.appspot.com/entry/4617620540096512/) (Penobscot) Nation, are deeply connected to their relative, the Pαnawάhpskewtəkok (Penobscot) River, with whom they share an identity and for whom they have a responsibility to care and protect. Nə̀pi (water) represents life and their love for the River is deeply personal and rooted in their culture and beliefs. The Penobscot water song describes the foundation of efforts to protect the health and well-being of the Penobscot River relative and an [mp3 can be downloaded for free](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-n%c9%99pi-song/).
+The [Pαnawαhpsekewi](https://penobscot-dictionary.appspot.com/entry/4617620540096512/) (people of where the rocks widen), also known as the  (Penobscot) Nation, are deeply connected to their relative, the Pαnawάhpskewtəkok (Penobscot) River. The people get their name from the river with whom they share an identity and for whom they have a responsibility to care and protect. Nə̀pi (water) represents life and their love for the River is deeply personal and rooted in their culture and beliefs. The Penobscot water song describes the foundation of efforts to protect the health and well-being of the Penobscot River relative and an [mp3 of the song can be downloaded for free](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-n%c9%99pi-song/).
 
-The [Penobscot Nation’s](https://www.penobscotnation.org/) [Water Resource Program](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/) (PNWRP) has a mission to “protect, enhance, and restore water quality and aquatic resources, and related aquatic ecosystems of the Nation's territories so that tribal members may fully carry out tribal traditional cultural practices and lifeways.” A big part of this mission starts with water quality monitoring, data collection and analysis of water samples to assess the health of water bodies. Because of the Maine Indian Claims Settlement Act of 1980, there are jurisdictional issues that prevent PNWRP from getting their water quality standards approved by the Environmental Protection Agency (EPA) which has a trust responsibility to all Native Nations (see [“Tribal Sovereignty and the Problem of Difference in Environmental Regulation: Observations on “Measured Separatism” in Indian Country”](https://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view?usp=drive_link) for background).  Consequently, PNWRP primarily compares monitoring data to the [Maine Department of Environmental Protection water quality standards](https://www.mainelegislature.org/legis/statutes/38/title38sec465.html).  The most common standards for waters are those for dissolved oxygen and *E. coli* bacteria.
+The [Penobscot Nation’s](https://www.penobscotnation.org/) [Water Resource Program](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/) (PNWRP) has a mission to “protect, enhance, and restore water quality and aquatic resources, and related aquatic ecosystems of the Nation's territories so that tribal members may fully carry out tribal traditional cultural practices and lifeways.” A big part of this mission starts with water quality monitoring, data collection and analysis of water samples to assess the health of water bodies. Penobscot Nation has their own water quality standards that were approved by Chief and Council, however because of the Maine Indian Claims Settlement Act of 1980, there are jurisdictional issues that prevent them from getting approved by the Environmental Protection Agency (EPA) which has a trust responsibility to all Native Nations (see [“Tribal Sovereignty and the Problem of Difference in Environmental Regulation: Observations on “Measured Separatism” in Indian Country”](https://drive.google.com/file/d/1SO_rzZfOmiyAmYnkKNjTfQpAq8Qv60RA/view?usp=drive_link) for background).  Consequently, PNWRP primarily compares their monitoring data to the [Maine Department of Environmental Protection water quality standards](https://www.mainelegislature.org/legis/statutes/38/title38sec465.html).  The most common standards for waters are those for dissolved oxygen and *E. coli* bacteria.
 
-Current monitoring efforts by the Penobscot Nation Department of Natural Resources include the direct measurement and water sample collection at [66 river sites, 47 tributary sites, and 21 sites on 11 lakes](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-quality-sampling-sites/). For these, bottles are prepared in advance with labels printed with specific QR codes so that each sample bottle can be automatically timestamped and precisely located with a smartphone during field work. Numerous variables are measured directly in the field and some water samples are processed in the laboratory. All collected data is downloaded, reviewed and approved  and can then be analyzed and used for various purposes, such as general outreach, fish consumption advisories, dam removal analysis, stream temperature modeling, quality reports, rulemaking, and legislation, among others. The following diagram visualizes the current data life cycle during this process.
+Current monitoring efforts by the PNWRP include the direct measurement and water sample collection at [66 river sites, 47 tributary sites, and 21 sites on 11 lakes](https://www.penobscotnation.org/departments/department-of-natural-resources/water-n%c9%99pi-resources/water-quality-sampling-sites/). For these, labels with QR codes are pre-printed and added to bottles in advance so that data about each sample can be automatically entered with a smartphone during field work. Numerous variables are measured directly in the field and some water samples are processed in the laboratory. All collected data is downloaded, reviewed and approved  and can then be analyzed and used for various purposes. The following diagram visualizes the current data life cycle during this process.
 
 <figure>
     <img src="/img/data_lifecycle.png"
@@ -36,22 +36,32 @@ Current monitoring efforts by the Penobscot Nation Department of Natural Resourc
     <figcaption>Figure 1. Diagram of the water quality monitoring data lifecycle.</figcaption>
 </figure>
 
+This data is used for a variety of purposes, including:
+* general outreach, 
+* fish consumption advisories, 
+* dam removal analysis, 
+* stream temperature modeling, 
+* water quality reports, 
+* rulemaking, and 
+* legislation. 
+
+
 ### Part 1 - New methodology for water quality control and reports
 
-For this community project, students will work in partnership with the Penobscot Nation Water Resources Planner to help develop a new methodology for compiling and processing quality controls of water samples in R. They will strive to create an automated workflow and template to generate field and laboratory summary reports for water quality assessments, comparing the results against standards for each site and waterbody in the form of Quarto documents. These reports will be used internally by the Water Resources Program and are intended to be used for assessment of accuracy and completeness in field and lab results. These reports have been created in Access in the past, and the major goal of this project is to create an R-based workflow.
+For this community project, students will work in partnership with the Penobscot Nation Water Resources Planner to help develop a new methodology for compiling and processing water quality data in R. They will strive to create an automated workflow and template to generate field and laboratory summary reports in the form of Quarto documents. These reports will be used internally by the Water Resources Program and are intended to be used for assessment of accuracy and completeness of field and lab results. These reports have been created in Access in the past, and the major goal of this project is to create an R-based workflow.
 
 #### Field Reports 
 
 Some major components of this project are to:
 - Flag missing or repetitive data
-- Flag data from different attributes that is not consistent with the attribute’s standards, using the guidelines in the [Quality Control Flags document](https://docs.google.com/document/u/0/d/1BiPaPOQ_vdUSrXmQW1RVlDJ8tk_J85twW5oonoxCqgI/).
-- Create a single file summary report for each run by date and primary collector using Quarto. Each file should also be further divided with headings for each site, and contain the following sections:
+- Flag data from different attributes that is not consistent with the attribute’s requirements, using the guidelines in the [Quality Control Flags document](https://docs.google.com/document/u/0/d/1BiPaPOQ_vdUSrXmQW1RVlDJ8tk_J85twW5oonoxCqgI/).
+- Create a single file summary report for each primary collector using Quarto. Each file should also be further divided by run and date with headings for each site, and contain the following sections:
 - A header section with all relevant site information
 - A sample table displaying the information about all bottles collected 
 - A result table with all measurements taken in the field
 - A filter table for any sites that have a chlorophyll a sample collected and is filtered by us
 - A summary of flags checked [additional table]
-- Create a function to automate the creation of these summary reports by run, date and collector. 
+- Create a function to automate the creation of these summary reports by primary collector. 
 - An example of a previous report and its various sections is presented below to give an idea of the format and information to strive for. More examples of these reports, notably including some filter tables can be found in the Water Quality Project Resources Folder.
 
 <figure>
@@ -67,8 +77,8 @@ Some major components of this project are to:
 - Calculate and create columns for violations in:
     - Transportation temperature.
     - Holding time.
-    - Analysis time for Coliform and *E. coli*
-    - Flag data from different attributes that is not consistent with the attribute’s standards, using the guidelines in the Quality Control Flags document.
+    - Analysis time
+    - Flag data from different attributes that is not consistent with the attribute’s requirements, using the guidelines in the Quality Control Flags document.
 - Parametrize and format single file summary reports in Quarto based on constituent, date, and run. 
 - Create a function to automate the creation of these summary reports.
 
@@ -84,18 +94,18 @@ An example of a previous report and its various sections is presented in Figure 
 
 Another goal for this community project is to help create a workflow to assess the surface water quality in terms of E.Coli bacteria colonies. In Maine, there are two different sets of regulations in place based on water quality class and type of water body. These criteria necessitate the analysis of the geometric mean of water samples over a 90 days rolling period. 
 
-The Maine Department of Environmental Protection (DEP) makes calculations of these rolling averages using a spreadsheet in order to assess if the water bodies meet the water quality standards. Some code has already been developed in the past by the PIN water quality team in order to create these 90 days rolling averages in a more automated way. However, results vary depending on the starting day of the rolling average, which is why further exploration would be necessary to determine the most accurate way to create these rolling averages, which may or may not match the process used by DEP but will be compared to it.
+The Maine Department of Environmental Protection (DEP) makes calculations of these rolling averages using a spreadsheet in order to assess if the water bodies meet the water quality standards. Some code has already been developed in the past by the PNWRP to create these 90 days rolling averages in a more automated way. However, results vary depending on the starting day of the rolling average. Thus, further exploration is necessary to determine the most accurate way to create these rolling averages, which may or may not match the process used by DEP but will be compared to it.
 
 Some major goals for this project are to:
 - Reformat the DEP data to run it in the previously written 90 days rolling average script from the PIN water quality team. This [E.Coli DEP data](https://docs.google.com/spreadsheets/u/0/d/17HTmQE2y2XR6Tjc7ncc_QDgZUnl0bQAVpl6Q3Ja-afU/) is a document that can serve as the starting point of extracting the DEP data from [DEP Calculations](https://docs.google.com/spreadsheets/d/1YPmjdOrnRwm3jmaH5JHdsHOIxAJq1nm3/edit?usp=sharing&ouid=103025896944680736072&rtpof=true&sd=true) to allow it to run in the E.Coli code already written. It might be necessary to simplify the code to only include the variables that are available in the DEP data. 
-- Compare the results of that process to the results gotten from the calculations of the DEP spreadsheet. If results are different, modify the code from the script to make the results from running the script the same as the ones from the DEP calculations. 
+- Compare the results of that process to the results from the DEP calculations. If results are different, modify the code from the script to make the results match. 
 - Explore the differences in results when starting the rolling average on different days (Eg: starting the rolling average on the sampling day).
 - Explore the differences in results when creating the 90 days rolling average backwards. (Eg: starting the rolling average 90 days before the last sampling day).
 - Investigate how the results are influenced by these different starting points. The ultimate goal is to understand what the variability in results means to propose an optimal technique for choosing when to start the rolling average.
 - Explore how the results change over a 90 days period based on the number of water samples collected. The ultimate goal is to figure out if there is an optimal number of samples to collect and use in this process. 
 
 ## What skills you can expect to learn
-- Workflow creation for automatically inputting water quality data and comparing it to established standards.
+- Workflow creation for inputting water quality data and comparing it to established standards.
 - Water quality report formatting and creation using Quarto
 - Automation of report creation
 - Project report writing using RMarkdown
@@ -130,12 +140,6 @@ Access the project on [github](https://github.com/LaurieLBaker/CEDS2024-Penobsco
 - [WQP User Guide](https://www.waterqualitydata.us/portal_userguide/)
 - [dataRetrieval tutorial (WQP)](https://acwi.gov/monitoring/conference/2016/0_monday_may2/A1B1/dataRetrieval%20Tutorial_secure.pdf)
 - [Water Quality Portal](https://www.waterqualitydata.us/)
-
-## Internship Opportunity
-
-Following this spring class, one student will have the opportunity to continue working on this project through a paid internship totaling 320 hours over 8 weeks. The internship position will require 40 hours of work per week, running from approximately June 10th to August 2nd. 
-
-Some goals of this internship will notably include polishing and wrapping up the class project, followed by a pivot to a broader involvement in the entire water quality process. The internship is likely to encompass a field component, involving sample processing in the lab, as well as data entry and management. The student will also focus on developing efficient ways to display and communicate results, notably by working on a ShinyApp and creating visualizations.
 
 ## Acknowledgements
 
