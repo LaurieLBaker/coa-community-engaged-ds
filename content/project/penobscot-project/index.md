@@ -136,10 +136,6 @@ Access the project on [github](https://github.com/LaurieLBaker/CEDS2024-Penobsco
 - [Quarto Q&A](https://mickael.canouil.fr/posts/2023-03-05-quarto-auto-table-crossref/): How to have labels and captions for an unknown number of tables?: Blog post with code for automatic labels and captions for multiple tables in Quarto. 
 - [Creating tables with gt()](https://gt.rstudio.com/reference/index.html).
 
-### DataRetrieval Water Quality Portal (WQP)
-- [WQP User Guide](https://www.waterqualitydata.us/portal_userguide/)
-- [dataRetrieval tutorial (WQP)](https://acwi.gov/monitoring/conference/2016/0_monday_may2/A1B1/dataRetrieval%20Tutorial_secure.pdf)
-- [Water Quality Portal](https://www.waterqualitydata.us/)
 
 ## Acknowledgements
 
