@@ -13,12 +13,12 @@ subtitle = ""
 
 |  <div style="width:100px;text-align:left">Week</div> |  <div style="width:140px;text-align:left">Date</div> | <div style="width:200px;text-align:left">Activity</div> | <div style="width:300px;text-align:left">Readings and Assignments</div> |
 |:---|:---|:---|:---|
-| Week One | Monday 4/1 1-4 | Welcome to Community-Engaged Data Science | <ul><li>Review the [Projects](/#projects) </li><li>Fill out the project preferences form on [google classroom](https://classroom.google.com)</li></ul>  | 
+| Week One | Monday 4/1 1-4 | Welcome to Community-Engaged Data Science | <ul><li>Review the [PDP Guidance](/#pdp_plan) </li><li>Sign up for a [PDP Meeting Slot](/#pdp_plan)</li><li>Read [a beginner's guide to scrum](https://www.atlassian.com/blog/project-management/beginners-guide-scrum-and-agile-project-management)</li></ul>  | 
 |  | Wednesday 4/3 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 4/4 1-4 | Complexity and Project Planning Workshop - [Kevin Callahan](https://kevin-callahan.com/) | | 
-| Week Two | Monday 4/8 1-4 | Proposal Development |  | 
+| Week Two | Wednesday 4/10 1-2:30 | Intro to Agile and Project Management |  | 
 |  | Wednesday 4/10 4-6 | Drop-in help session with Shea | | 
-|  | Thursday 4/11 1-4 | Project Time | | 
+|  | Thursday 4/11 1-4 | Project Time (Snow date for Complexity Workshop) | <ul><li>PDP plan due </li><li>Team Contract due</li></ul> | 
 | Week Three | Monday 4/15 1-4 | Sprint Planning and Project Time |  | 
 |  | Wednesday 4/17 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 4/18 1-4 | Partner Check-in | | 

@@ -27,13 +27,11 @@ These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Tim
 
 Other goals could be: 
 - Learn to use git from the command line. 
-- Learn and implement a machine learning model, 
-- Explore data science career options, 
-- Improve leadership skills (lead sprint planning, or sprint retrospective, meetings with partners), 
+- Improve project management skills (lead sprint planning, or sprint retrospective, meetings with partners), 
 - Improve science communication writing skills, 
-- Learn about different forms of community engagement, 
+- Learn to create a shiny app, 
 - Learn and implement text analysis. 
 
 **Support**
 
-As part of your pdp plan you will identify readings and tutorials designed to help you work toward your goals. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) and [Python for Data Science](https://trello.com/b/srJg0sHp/python-resources-for-data-science) trello boards can help you get ideas for technical skills.
+As part of your pdp plan you will identify readings and tutorials designed to help you work toward your goals. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) trello board and the [resources](/#resources) can help you get ideas for technical skills.
