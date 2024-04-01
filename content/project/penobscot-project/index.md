@@ -12,11 +12,9 @@ links:
 slides: 
 summary: 
 tags:
-- Health
-- Smoking
-- Tobacco use
-- Immigration
-- Survey Data
+- Water Monitoring
+- Quality Control
+- Reports
 title: Monitoring Water Quality in the Penobscot River
 publishDate: "2022-04-25T00:00:00Z"
 url_code: ""
