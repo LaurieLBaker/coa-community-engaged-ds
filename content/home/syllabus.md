@@ -16,7 +16,7 @@ This course emphasizes putting knowledge into practice, including going beyond i
 This course is intended to appeal to a wide range of students and create an opportunity for students to do collaborative and advanced project work. Through the course, students will be exposed to a range of scientific ways of knowing and doing, helping students to cultivate an interdisciplinary perspective on what data science can do. Evaluation will be based on contributions to the process and final product of their team’s term-long community project, participation in skills workshops, and progress on their personal development plan.
 
 
-The course content is organized in three units:
+The course content is organized in four units:
  
 - **Week 1 to 2 - Project Planning and Scoping:** This unit is an introduction to the projects and toolkit of the course. Students will define and identify key project milestones, brainstorm ideas and approaches to solving the problem, become familiar with project management techniques and plan the project tasks. 
 - **Week 3 to 8 - Exploring and analyzing the data:** This unit focuses on exploring the data and getting iterative feedback from partners.
@@ -57,7 +57,7 @@ How you choose to engage in this course—both in and out of class—is central 
 
 ### Group project:
 
-Four groups of 3-4 students each will undertake projects with our community partners. Each group will determine how to structure their project; what forms of information are necessary and how to gather them; how to allocate and organize tasks; and how to produce the “deliverables” agreed upon with the community partner.
+Four groups of 2-3 students each will undertake projects with our community partners. Each group will determine how to structure their project; what forms of information are necessary and how to gather them; how to allocate and organize tasks; and how to produce the “deliverables” agreed upon with the community partner.
 
 * **Project plan:** In the first two weeks of the course, each project group develops a written plan in consultation with their community partner, the instructors, and their peers. The plan should include a clear statement of the particular questions you will address, how you will address them, and project milestones you will work towards. As part of your consultation with project partners, you will also develop a kanban board for the project that breaks the project down into specific tasks that will be added to throughout the project. Kanban boards are a common tool used by data science and software development teams to manage projects. You will use the kanban board to brainstorm, plan and allocate work - both temporally and among yourselves - to complete the project. 
 
@@ -73,7 +73,7 @@ The reader of the project plan should understand why you are doing this project,
 
 * **Final Written Report:** Each group submits a final written report, including any final products and documented code, to both the community partner and the instructors. This is a primary outcome of the course and should represent top-level writing and professional standards of presentation. The format and structure of reports and the final product may vary, based on the nature of your particular project. All code must be well documented and organized in a way that the project partner can continue to build on the analysis/visualization. In addition to the final group report and final product, each individual student writes a final self- and peer-evaluation. All components – the group report, final products, and the evaluation – will be considered in grading the final written report. The group report will be sent electronically to the instructors. Each group should give their community partners electronic copies of the final report and all supporting documents, including code and references. 
 
-*Note:* Because the final reports from this class are put onto a website (this website!) that can be viewed by the public, you must pay particular attention to copyright issues in preparing your report. Any images you incorporate into the final report must be available in the public domain. Care must also be exercised in the usage and citing of textual material. If you have questions about whether inclusion of something in your report would infringe on copyright laws, you can refer to the [Bates copyright policies](http://www.bates.edu/ils/policies/access-use/copyright/).
+*Note:* Because the final reports from this class are put onto a website (this website!) that can be viewed by the public, you must pay particular attention to copyright issues in preparing your report. Any images you incorporate into the final report must be available in the public domain. Care must also be exercised in the usage and citing of textual material. If you have questions about whether inclusion of something in your report would infringe on copyright laws, you can refer to [Bates' copyright policies](http://www.bates.edu/ils/policies/access-use/copyright/).
 
 * **Personal Development Plan and Reflections**: As part of this project you will be submitting a plan for personal development. I will meet with each of you 1 on 1 during the first two weeks of class to discuss and form your project goals. Throughout the course there will bi-weekly reflections to reflect on progress towards these goals.
 

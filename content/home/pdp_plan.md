@@ -17,21 +17,23 @@ As part of the course you will be putting together and designing your own person
 
 <a title="Dungdm93, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:SMART-goals.png"><img width="512" alt="SMART-goals" src="https://upload.wikimedia.org/wikipedia/commons/2/28/SMART-goals.png"></a>
 
-These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Time-based). An example of a SMART goal might be:
+These goals should be SMART (Specific, Measurable, Achievable, Relevant, and Time-based). As far as possible you should break your goal down into realistic tasks that you can track. An example of a SMART goal might be:
 
-**Example Goal:** Improve my skills in data visualization
+**Example Goal:** Learn to create a shiny app
 
 **Plan (during course):** 
-* Work through independent gganimate/RShiny tutorials/leaflet tutorials, 
-* Create a new visualization about the data each week.
+* Work through Posit's [RShiny tutorials](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html) 
+* Read the reactivity chapter sections in [Mastering RShiny](https://mastering-shiny.org/)
+* Write comments in existing RShiny app to identify what part does what.
+* Attend Shiny workshop and drop-in help sessions to work through materials.
 
 Other goals could be: 
 - Learn to use git from the command line. 
 - Improve project management skills (lead sprint planning, or sprint retrospective, meetings with partners), 
 - Improve science communication writing skills, 
 - Learn to create a shiny app, 
-- Learn and implement text analysis. 
+- Learn and implement text analysis in project.
 
 **Support**
 
-As part of your pdp plan you will identify readings and tutorials designed to help you work toward your goals. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) trello board and the [resources](/#resources) can help you get ideas for technical skills.
+As part of your pdp plan you will identify readings and tutorials designed to help you work toward your goals. The [R for Data Science](https://trello.com/b/ukAp9sUg/r-resources-for-data-science) trello board and the [resources](/#resources) can help you get ideas resources and for technical skills. I can also help you identify resources during our meeting, but you should some research in preparation.
