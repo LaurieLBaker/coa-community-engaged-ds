@@ -15,7 +15,7 @@ subtitle = ""
 |:---|:---|:---|:---|
 | Week One | Monday 4/1 1-4 | Welcome to Community-Engaged Data Science | <ul><li>Review the [PDP Guidance](/#pdp_plan) </li><li>Sign up for a [PDP Meeting Slot](/#pdp_plan)</li><li>Read [a beginner's guide to scrum](https://www.atlassian.com/blog/project-management/beginners-guide-scrum-and-agile-project-management)</li><li>Read [how to write smart goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals#:~:text=What%20are%20SMART%20goals%3F,within%20a%20certain%20time%20frame.)</li></ul>  | 
 |  | Wednesday 4/3 4-6 | Drop-in help session with Shea | | 
-|  | Thursday 4/4 1-4 | Complexity and Project Planning Workshop - [Kevin Callahan](https://kevin-callahan.com/) | | 
+|  | Thursday 4/4 1-4 | Complexity and Project Planning Workshop - [Kevin Callahan](https://kevin-callahan.com/) | <ul><li>Watch the pre-workshop [video](https://www.youtube.com/watch?v=sfGtw2C95Ms)</li></ul> | 
 | Week Two | Wednesday 4/10 1-2:30 | Intro to Agile and Project Management |  | 
 |  | Wednesday 4/10 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 4/11 1-4 | Project Time (Snow date for Complexity Workshop) | <ul><li>PDP plan due </li><li>Team Contract due</li></ul> | 
