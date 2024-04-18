@@ -21,21 +21,21 @@ subtitle = ""
 |  | Thursday 4/11 1-4 | Project Time (Snow date for Complexity Workshop) | <ul><li>PDP plan due </li><li>Team Contract due</li></ul> | 
 | Week Three | Monday 4/15 1-4 | Sprint Planning and Project Time |  | 
 |  | Wednesday 4/17 4-6 | Drop-in help session with Shea | | 
-|  | Thursday 4/18 1-4 | Partner Check-in | | 
-| Week Four | Monday 4/22 1-4 | Survey Analysis Workshop with [Sahir Advani](https://joshua-stoll.com/people/) |  | 
+|  | Thursday 4/18 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
+| Week Four | Monday 4/22 1-4 | Survey Analysis Workshop with [Sahir Advani](https://joshua-stoll.com/people/) | <ul><li>Submit the first iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> | 
 |  | Wednesday 4/24 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 4/25 1-4 | Reproducible Reporting Using Quarto with [Jadey Ryan](https://jadeyryan.com/) | | 
-| Week Five | Monday 4/29 1-4 | Sprint Planning and Project Time |  | 
+| Week Five | Monday 4/29 1-4 | Project Time |  | 
 |  | Wednesday 5/1 4-6 | Drop-in help session with Shea | | 
-|  | Thursday 5/2 1-4 | Partner Check-in | | 
-| Week Six | Monday 5/6 1-4 | Sprint Planning and Project Time |  | 
+|  | Thursday 5/2 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
+| Week Six | Monday 5/6 1-4 | Project Time |  <ul><li>Submit the second iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> |  | 
 |  | Wednesday 5/8 4-6 | Project Time | | 
 | | Thursday 5/9 1-4 | Databases and SQL Workshop - [Kyle Shank](https://www.coa.edu/live/profiles/2291-kyle-shank) | | 
-| Week Seven | Monday 5/13 1-4 | Sprint Planning and Project Time |  | 
+| Week Seven | Monday 5/13 1-4 | Project Time |  | 
 |  | Wednesday 5/15 4-6 | Drop-in help session with Shea | | 
-| | Thursday 5/16 1-4 | Partner Check-in | | 
+| | Thursday 5/16 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
 | | Saturday 5/18 All Day | Field Trip to Penobscot River | | 
-| Week Eight | Monday 5/20 1-4 | Sprint Planning and Project Time |  | 
+| Week Eight | Monday 5/20 1-4 | Sprint Planning and Project Time | <ul><li>Submit the third iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> | 
 | | Wednesday 5/22 4-6 | Project Time | | 
 | | Thursday 5/23 1-4 | Creating interactive applications with RShiny with [Johnathan Evanilla](https://www.linkedin.com/in/johnathan-evanilla-904059172) | | 
 | Week Nine | Monday 5/27 1-4 | Sprint Planning and Project Time |  | 
