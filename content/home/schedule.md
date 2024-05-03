@@ -30,7 +30,7 @@ subtitle = ""
 |  | Thursday 5/2 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
 | Week Six | Monday 5/6 1-4 | Project Time |  <ul><li>Submit the second iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> |  | 
 |  | Wednesday 5/8 4-6 | Project Time | | 
-| | Thursday 5/9 1-4 | Databases and SQL Workshop - [Kyle Shank](https://www.coa.edu/live/profiles/2291-kyle-shank) | | 
+| | Thursday 5/9 1-4 | Project Time and Code Review | | 
 | Week Seven | Monday 5/13 1-4 | Project Time |  | 
 |  | Wednesday 5/15 4-6 | Drop-in help session with Shea | | 
 | | Thursday 5/16 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
