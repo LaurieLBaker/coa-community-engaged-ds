@@ -41,7 +41,7 @@ This website serves as the project hub for information surrounding the
 government grant, the community energy center, what the project is
 trying to accomplish, how it will accomplish it and what that
 accomplishment looks like. This website is for potential and current
-participants to get updated, accurate information regaring home energy
+participants to get updated, accurate information regarding home energy
 audits, government rebates and other related information.
 
 <iframe src="https://coa-energy-upgrade-project.netlify.app" width = "100%" height = "500" title="COA Energy Project Website"></iframe>
