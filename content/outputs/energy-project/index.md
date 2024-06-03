@@ -35,7 +35,7 @@ Throughout this process, CEC will consider all available options and ensure part
 
 ## Project Outputs
 
-1: Website
+### Website
 
 This website serves as the project hub for information surrounding the
 government grant, the community energy center, what the project is
@@ -44,11 +44,15 @@ accomplishment looks like. This website is for potential and current
 participants to get updated, accurate information regaring home energy
 audits, government rebates and other related information.
 
-2:We created the Quarto Reproducible Reports template. It will be used
+<iframe src="https://coa-energy-upgrade-project.netlify.app" width = "100%" height = "500" title="COA Energy Project Website"></iframe>
+
+### Quarto Reproducible Reports 
+
+We created the Quarto Reproducible Reports template. It will be used
 for Energy Audits for the Maine Community Wide Comprehensive Energy
 Upgrades program. The work flow for the creation of the audits is:
 
-1.  Collect the data (Happens during an audit)
+1.  Collect the data (happens during an audit)
 
 2.  Report the data to google form (happens during/after the audit)
 
@@ -71,7 +75,7 @@ summary of the energy audit looks like.
 </figure>
 
 
-3: Arduino Air Quality Dashboard
+### Arduino Air Quality Dashboard
 
 Some of the homes participating in the project will have wifi enabled
 Arduino air quality monitors installed in them, so one of the goals of
@@ -110,9 +114,9 @@ values.</figcaption>
 
 ## Team
 
-Mabon Young - COA '26
+Mabon Young - COA '26 - Website and Arduino
 
-Adler Garner - COA '26 
+Adler Garner - COA '26 - Website and Case Studies
 
 Rudolfs Lukasevics - COA '25 - Website and Quarto Reproducible Report
 
@@ -125,7 +129,7 @@ Access the project on
 
 ## Acknowledgements
 
-Thanks to: David Gibson and Nicole Grohoski, the director of energy and
-energy project manager at COA Laurie Baker, CEDS Instructor Nicolo Mega,
-Arduino monitor designer and producer Flavio Leccese, rduinoiot
+Thanks to: David Gibson and Nicole Grohoski the director of energy and
+energy project manager at COA; Laurie Baker, CEDS Instructor; Nicolo Mega,
+Arduino monitor designer and producer; Flavio Leccese, rduinoiot
 developer
