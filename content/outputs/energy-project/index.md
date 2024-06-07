@@ -1,8 +1,8 @@
 ---
-date: "2022-09-07 T00:00:00Z"
+date: "2024-06-06 T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "COA energy students insulating an attic space on campus."
   focal_point: Smart
 links:
 - icon: twitter
@@ -10,9 +10,11 @@ links:
   name: Follow
   url: 
 slides: 
-summary: 
+summary: "For our project, we created a website with information about the energy upgrade program and energy upgrade case studies, visualized air-quality monitoring data from the arduinos, and developed a reproducible energy audit template"
 tags:
 - Energy Efficiency Monitoring
+- Energy Upgrades
+- Energy Audits
 - Environmental Science
 title: Developing a Comprehensive Monitoring Program for Community-wide Energy Efficiency Upgrades
 publishDate: "2022-04-25T00:00:00Z"
@@ -26,17 +28,16 @@ editor_options:
 
 ## Project Background
 
-Project is working with Maine Community-wide Comprehensive Energy
-Upgrades Program. Helping them to develop their website and quarto
-reproducible report as energy audits.
+For our project we worked with the Maine Community-wide Comprehensive Energy
+Upgrades Program to develop their website and create a
+reproducible energy audit report template using `Quarto`.
 
-More about Maine Community-wide Comprehensive Energy Upgrades Program:
-MCWCEU is Government-funded program committed to providing free
+The Maine Community-wide Comprehensive Energy Upgrades Program (MCWCEU) is a Government-funded program committed to providing free
 high-quality energy audits and catalyze low-cost energy improvements to
 Maine homeowners. Implemented by the COA’s Community Energy Center
 directed by David Gibson. As a pilot program, CEC is starting their
 services with the Great Cranberry Island community this summer 2024. The
-Participating Home owners. Will be provided with a free comprehensive
+participating home owners will be provided with a free comprehensive
 energy audit, giving them an objective look at their home’s energy
 systems. Then, they will be provided several options for improving their
 home’s efficiency, and CEC will negotiate with contractors on homeowners
@@ -62,8 +63,8 @@ audits, government rebates and other related information.
 
 ### Quarto Reproducible Reports
 
-We created the Quarto Reproducible Reports template. It will be used for
-Energy Audits for the Maine Community Wide Comprehensive Energy Upgrades
+We created a reproducible Energy Audit template using Quarto. It will be used for
+energy audits for the Maine Community Wide Comprehensive Energy Upgrades
 program. The work flow for the creation of the audits is:
 
 1.  Collect the data (happens during an audit)
@@ -72,7 +73,7 @@ program. The work flow for the creation of the audits is:
 
 3.  Render the reports (happens after data reporting)
 
-After render the homeowners would have access to comprehensive summer
+After rendering the report the homeowners would have access to comprehensive summer
 about their property. For the data collection, reporting and rendering
 the Building Performance Institute (BPI) Standards are followed closely.
 As the energy auditors are BPI certified. Audits look into insulation,
@@ -106,7 +107,7 @@ compound index.
 
 </figure>
 
-Using a third party R package called rduinoiot, developed by Flavio
+Using a third party R package called `rduinoiot`, developed by Flavio
 Leccese, we were able to link the Arduino API to R in order to pull the
 data into a dataframe. Using this, we will develop an RShiny web app
 dashboard to easily navigate and summarize the data. In the future, we

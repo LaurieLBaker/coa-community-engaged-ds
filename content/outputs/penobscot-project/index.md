@@ -1,5 +1,5 @@
 ---
-date: "2022-04-25 T00:00:00Z"
+date: "2024-06-06 T00:00:00Z"
 external_link: ""
 image:
   caption: "Field trip water sampling on the Penobscot River with Jan Paul and Angie Reed. Photo from Laurie Baker"
@@ -10,7 +10,7 @@ links:
   name: Follow
   url: 
 slides: 
-summary: 
+summary: Developing parameterized reports for quality control monitoring of water samples.
 tags:
 - Water Monitoring
 - Quality Control

@@ -1,8 +1,8 @@
 ---
-date: "2023-06-03 T00:00:00Z"
+date: "2024-06-06 T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "Visit to Freeland Bunker's House in Winter Harbor"
   focal_point: Smart
 links:
 - icon: twitter

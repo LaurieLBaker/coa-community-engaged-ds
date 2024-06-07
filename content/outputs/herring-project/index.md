@@ -1,5 +1,5 @@
 ---
-date: "2024-06-02 T00:00:00Z"
+date: "2024-06-06 T00:00:00Z"
 external_link: ""
 image:
   caption: Image of students helping install a fish trap at Wights Pond, Penobscot Maine. Photo credit - Chris Petersen.
