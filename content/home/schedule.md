@@ -24,7 +24,7 @@ subtitle = ""
 |  | Thursday 4/18 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
 | Week Four | Monday 4/22 1-4 | Survey Analysis Workshop with [Sahir Advani](https://joshua-stoll.com/people/) | <ul><li>Submit the first iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> | 
 |  | Wednesday 4/24 4-6 | Drop-in help session with Shea | | 
-|  | Thursday 4/25 1-4 | Reproducible Reporting Using Quarto with [Jadey Ryan](https://jadeyryan.com/) | | 
+|  | Thursday 4/25 1-4 | Reproducible Reporting Using Quarto with [Jadey Ryan](https://jadeyryan.com/) | [Workshop Materials](https://jadeyryan.quarto.pub/ceds-quarto-workshop/) | 
 | Week Five | Monday 4/29 1-4 | Project Time |  | 
 |  | Wednesday 5/1 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 5/2 1-4 | Partner Check-in, Sprint Retrospective and Planning | | 
@@ -37,7 +37,7 @@ subtitle = ""
 | | Saturday 5/18 All Day | Field Trip to Penobscot River | | 
 | Week Eight | Monday 5/20 1-4 | Sprint Planning and Project Time | <ul><li>Submit the third iteration of your project on google classroom </li><li> Submit your Sprint Retrospective on google classroom </li></ul> | 
 | | Wednesday 5/22 4-6 | Project Time | | 
-| | Thursday 5/23 1-4 | Creating interactive applications with RShiny with [Johnathan Evanilla](https://www.linkedin.com/in/johnathan-evanilla-904059172) | | 
+| | Thursday 5/23 1-4 | Creating interactive applications with RShiny with [Johnathan Evanilla](https://www.linkedin.com/in/johnathan-evanilla-904059172) | [Workshop Materials](https://github.com/jevanilla/rshiny-workshop) | 
 | Week Nine | Monday 5/27 1-4 | Sprint Planning and Project Time |  | 
 |  | Wednesday 5/29 4-6 | Drop-in help session with Shea | | 
 |  | Thursday 5/30 1-4 | Final Presentations | | 
