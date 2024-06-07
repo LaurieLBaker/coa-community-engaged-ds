@@ -44,13 +44,13 @@ This project came out of some data management that the network had been doing. M
   Figures 1 and 2 show 2023 temperature distribution and trends across multiple ponds. 
  
   <figure>
-    <img src="/CEDS-project/Write-up/Images/dist.jpg"
+    <img src="Images/dist.jpg"
          alt="2023 temperature distribution by Pond">
     <figcaption>Figure 1. Average Water Temperature (°C) Distribution in 2023 by pond.</figcaption>
 </figure>
   
   <figure>
-    <img src="/CEDS-project/Write-up/Images/trends.jpg"
+    <img src="Images/trends.jpg"
          alt="2023 temperature trends by Pond">
     <figcaption>Figure 2. Average Water Temperature (°C) Trends in 2023 by pond.</figcaption>
 </figure>
@@ -59,7 +59,7 @@ This project came out of some data management that the network had been doing. M
   Figure 3 is a line graph of the changes in average daily temperature of Somesville, Wight’s, and Walker ponds in 2023. 
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/TAB1.png"
+    <img src="Images/TAB1.png"
          alt="Line Graph of Average Water Temperature in 2023 by Pond">
     <figcaption>Figure 3. Average Water Temperature (°C) in 2023 by pond.</figcaption>
 </figure>
@@ -67,7 +67,7 @@ This project came out of some data management that the network had been doing. M
   Figure 4 is a bar and line graph that displays the 2023 river herring count and average temperature of different ponds at the same time. 
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/TAB2.png"
+    <img src="Images/TAB2.png"
          alt="Line and Bar Graph of Average Water Temperature and River Herring Count in 2023 by Pond">
     <figcaption>Figure 4. Average Water Temperature (°C) vs. River Herring Count in 2023 by pond.</figcaption>
 </figure>
@@ -75,7 +75,7 @@ This project came out of some data management that the network had been doing. M
   Figure 5 is a table of the environmental conditions of juvenile river herring leaving Somesville Pond.
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/juvenile_length.jpeg"
+    <img src="Images/juvenile_length.jpeg"
          alt="Boxplot graph showing the variability of juvenile river herring lengths across 50 samples in 2023, Somes Pond">
     <figcaption>Figure 5. Variability of Juvenile River Herring Lengths across Samples.</figcaption>
 </figure>
@@ -83,13 +83,13 @@ This project came out of some data management that the network had been doing. M
  Figures 6 and 7 take a look at juvenile river herring count data in relation to their length and width.
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/juvenile_weight.jpeg"
+    <img src="Images/juvenile_weight.jpeg"
          alt="Boxplot graph showing the variability of juvenile river herring weight across 50 samples in 2023, Somes Pond">
     <figcaption>Figure 6. Variability of Juvenile River Herring Weight across Samples.</figcaption>
 </figure>
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/juvenile_table.png"
+    <img src="Images/juvenile_table.png"
          alt="Table showing the environmental conditions with juvenile river herring counts in 2023, Somes Pond">
     <figcaption>Figure 7. Environmental Conditions of Juvenile River Herring Leaving Somes Pond.</figcaption>
 </figure>
@@ -100,32 +100,34 @@ This project came out of some data management that the network had been doing. M
 	
 	The data that we worked with for this project is almost all being taken by different people—usually harvesters, non-profits, or researchers—all across the coast using many different techniques and data structures. Additionally, each run has very different dynamics and contexts. The fish populations vary between runs and so does the history of passage impediment, restoration, harvest, predation, and more. Being able to capture some of that diversity is important, so we wanted to make sure that the data was linked up, or could later be linked up, with ‘metadata’ to provide context for the counts. 
 We also wanted to make sure that the app would be (relatively) updateable. The hope is that this project will only grow with time, so it is important that it is easy to add data as the network and the project grow.
+
 	We primarily used the Tidyverse, specifically dplyR to tidy, join, and standardize the data. 
 	There were three kinds of data that we needed to work with to create our final datasets. The first was the count data itself. For many sites, we had daily data and annual data, though for some we just had daily data. The count data typically needed to be cleaned, sometimes pivoted into the correct form, and joined with other sites to create a larger dataframe. Where annual data was missing for a site with daily data, we used the cumulative count column to extrapolate an annual total to add to the annual data frame. At the end of this process, we had one data frame with all of the daily data and one with all of the annual data. The next step, after creating the two distinct data frames, was to join each of them with contextual metadata and watershed categorizations. The watershed data was pulled, in GIS, from USGS resources and joined using latitude and longitude. The metadata was provided by the River Herring Network, and will be entered by stewards going forward, and joined using site name, latitude, and longitude. The end result of this was two dataframes—one with daily data and one with annual data—that included watershed categorizations and contextual information about the run. These are the two data frames used for the coast-wide count application. 
 	A very similar process was followed to build the environmental data for the Maine platform. We took daily count data from the runs that the network monitors and joined it with temperature data from each of those sites by site name and municipality (where site names did not match). This was then added to the metadata and the watershed data to create one large data frame. 
 
 ## Team
-[Laila Hammoudeh ‘26](https://github.com/LailaHammoudeh)
 
-[Kristin Zunino ‘25](https://github.com/Kristinzunino)
+- [Laila Hammoudeh ‘26](https://github.com/LailaHammoudeh)
 
-[Sophie Chivers ‘24](https://github.com/schivers24)
+- [Kristin Zunino ‘25](https://github.com/Kristinzunino)
+
+- [Sophie Chivers ‘24](https://github.com/schivers24)
 
 ## Data
 Access the project on [github](https://github.com/LaurieLBaker/shad-river-herring) and find out more about the data in the [codebook](https://github.com/LaurieLBaker/shad-river-herring/blob/main/shad-river-herring-in-development/data/README.md).
 
 ## Resources
-[R shiny resources](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
+
+- [R shiny resources](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html)
 
 ## Acknowledgements
+
 We’d like to thank Emily Farr, Mike Thalhauser, and Anne Zegers from the River Herring Network for all of their time helping us to contextualize and refine our work. We’d also like to thank Chris Petersen for helping bring us up to speed on all things community river herring restoration and Bailey Bowden for teaching us what a river herring run looks like (See figure 8). 
 
 <figure>
-    <img src="/CEDS-project/Write-up/Images/featured.JPG"
+    <img src="Images/featured.JPG"
          alt="Installing River herring Trap in Penobscot">
     <figcaption>Figure 8. Installing River herring Trap on Wights Pond with Bailey Bowden,Penobscot Maine.</figcaption>
 </figure>
 
 	We also would like to thank [Jonathan Evanilla](https://www.linkedin.com/in/johnathan-evanilla-904059172/) for a fantastic workshop on R Shiny that helped us refine our code and set up strong structures for the environmental data application. 
-
-
