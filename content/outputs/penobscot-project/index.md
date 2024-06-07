@@ -40,7 +40,7 @@ We enhanced the field report by introducing tabs for easy navigation across diff
 
 
 <figure style="display: flex; justify-content: center;">
-    <video src="Recording 2024-05-28 201148.mp4" width="320" height="240" controls preload>
+    <video src="recordings/Recording 2024-05-28 201148.mp4" width="320" height="240" controls preload>
     </video>
     <figcaption> Field Report.</figcaption>
 </figure>
@@ -54,7 +54,7 @@ Like the field report, this lab report also includes filtering and sorting capab
 
 
 <figure style="display: flex; justify-content: center;">
-    <video src="Recording 2024-05-27 133028.mp4" width="320" height="240" controls preload>
+    <video src="recordings/Recording 2024-05-27 133028.mp4" width="320" height="240" controls preload>
     </video>
     <figcaption> Lab Report.</figcaption>
 </figure>
