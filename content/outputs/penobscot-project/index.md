@@ -46,7 +46,6 @@ We enhanced the field report by introducing tabs for easy navigation across diff
 </figure>
 
 
-
 In the latter half of the term, we focused on developing a lab report with quality control flags similar to the field report. However, these flags were designed to highlight samples exceeding their recommended holding time before analysis. With approximately 10 constituents, each with a unique optimal holding time, this feature ensures the most accurate results.
 
 Like the field report, this lab report also includes filtering and sorting capabilities. In our final iteration, we tailored the report to our community partners’ needs by organizing each sampling visit by the constituent. Instead of displaying results for all constituents together, they are presented under separate headers in the table of contents, facilitating a smoother transition between different lab reports.
