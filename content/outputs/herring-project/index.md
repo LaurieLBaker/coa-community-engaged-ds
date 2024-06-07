@@ -83,7 +83,7 @@ Figure 4 is a bar and line graph that displays the 2023 river herring count and 
 Figure 5 is a table of the environmental conditions of juvenile river herring leaving Somesville Pond.
 
 <figure>
-    <img src="Images/juvenile_length.jpeg"
+    <img src="Images/juvenile_length.jpg"
          alt="Boxplot graph showing the variability of juvenile river herring lengths across 50 samples in 2023, Somes Pond">
     <figcaption>Figure 5. Variability of Juvenile River Herring Lengths across Samples.</figcaption>
 </figure>
@@ -91,7 +91,7 @@ Figure 5 is a table of the environmental conditions of juvenile river herring le
 Figures 6 and 7 take a look at juvenile river herring count data in relation to their length and width.
 
 <figure>
-    <img src="Images/juvenile_weight.jpeg"
+    <img src="Images/juvenile_weight.jpg"
          alt="Boxplot graph showing the variability of juvenile river herring weight across 50 samples in 2023, Somes Pond">
     <figcaption>Figure 6. Variability of Juvenile River Herring Weight across Samples.</figcaption>
 </figure>
