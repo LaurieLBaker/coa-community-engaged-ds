@@ -26,12 +26,24 @@ editor_options:
 
 ## Project Background
 
-Project is working with Maine Community-wide Comprehensive Energy Upgrades Program. Helping them to develop their website and quarto reproducible report as energy audits. 
+Project is working with Maine Community-wide Comprehensive Energy
+Upgrades Program. Helping them to develop their website and quarto
+reproducible report as energy audits.
 
 More about Maine Community-wide Comprehensive Energy Upgrades Program:
-MCWCEU is Government-funded program committed to providing free high-quality energy audits and catalyze low-cost energy improvements to Maine homeowners. Implemented by the COA’s Community Energy Center directed by David Gibson. As a pilot program, CEC is starting their services with the Great Cranberry Island community this summer 2024. The Participating Home owners. Will be provided with a free comprehensive energy audit, giving them an objective look at their home’s energy systems. Then, they will be provided several options for improving their home’s efficiency, and CEC will negotiate with contractors on homeowners behalf to integrate the solutions they choose.
-Throughout this process, CEC will consider all available options and ensure participants gain the most benefit for the lowest cost available, both through government rebates and community-wide benefits.
-
+MCWCEU is Government-funded program committed to providing free
+high-quality energy audits and catalyze low-cost energy improvements to
+Maine homeowners. Implemented by the COA’s Community Energy Center
+directed by David Gibson. As a pilot program, CEC is starting their
+services with the Great Cranberry Island community this summer 2024. The
+Participating Home owners. Will be provided with a free comprehensive
+energy audit, giving them an objective look at their home’s energy
+systems. Then, they will be provided several options for improving their
+home’s efficiency, and CEC will negotiate with contractors on homeowners
+behalf to integrate the solutions they choose. Throughout this process,
+CEC will consider all available options and ensure participants gain the
+most benefit for the lowest cost available, both through government
+rebates and community-wide benefits.
 
 ## Project Outputs
 
@@ -41,16 +53,18 @@ This website serves as the project hub for information surrounding the
 government grant, the community energy center, what the project is
 trying to accomplish, how it will accomplish it and what that
 accomplishment looks like. This website is for potential and current
-participants to get updated, accurate information regarding home energy
+participants to get updated, accurate information regaring home energy
 audits, government rebates and other related information.
 
-<iframe src="https://coa-energy-upgrade-project.netlify.app" width = "100%" height = "500" title="COA Energy Project Website"></iframe>
+<iframe src="https://coa-energy-upgrade-project.netlify.app" width="100%" height="500" title="COA Energy Project Website">
 
-### Quarto Reproducible Reports 
+</iframe>
 
-We created the Quarto Reproducible Reports template. It will be used
-for Energy Audits for the Maine Community Wide Comprehensive Energy
-Upgrades program. The work flow for the creation of the audits is:
+### Quarto Reproducible Reports
+
+We created the Quarto Reproducible Reports template. It will be used for
+Energy Audits for the Maine Community Wide Comprehensive Energy Upgrades
+program. The work flow for the creation of the audits is:
 
 1.  Collect the data (happens during an audit)
 
@@ -68,12 +82,11 @@ summary of the energy audit looks like.
 
 <figure>
 
-<img src="/img/energy_audit_summery.png" alt="Example of energy audit's summery"/>
+<img src="/img/energy_audit_summery.png" alt="Example of energy audit&apos;s summery"/>
 
 <figcaption>Example of energy audit's summery.</figcaption>
 
 </figure>
-
 
 ### Arduino Air Quality Dashboard
 
@@ -127,9 +140,13 @@ Access the project on
 
 ## Resources
 
-## Acknowledgements
+-   [Reproducible Reporting with
+    Quarto](https://jadeyryan.quarto.pub/ceds-quarto-workshop/) by Jadey
+    Ryan
+
+-   [Official quarto website](https://quarto.org/)
 
 Thanks to: David Gibson and Nicole Grohoski the director of energy and
-energy project manager at COA; Laurie Baker, CEDS Instructor; Nicolo Mega,
-Arduino monitor designer and producer; Flavio Leccese, rduinoiot
+energy project manager at COA; Laurie Baker, CEDS Instructor; Nicolo
+Mega, Arduino monitor designer and producer; Flavio Leccese, rduinoiot
 developer
