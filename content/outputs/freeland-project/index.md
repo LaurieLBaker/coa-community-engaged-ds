@@ -17,7 +17,7 @@ tags:
 - Communication
 - Economics
 title: Maritime life in Frenchman Bay in the late 19th century
-publishDate: "2022-04-25T00:00:00Z"
+publishDate: "2024-06-06T00:00:00Z"
 url_code: ""
 url_slides: ""
 url_video: ""

@@ -16,7 +16,7 @@ tags:
 - Quality Control
 - Reports
 title: Monitoring Water Quality in the Penobscot River
-publishDate: "2022-04-25T00:00:00Z"
+publishDate: "2024-06-06T00:00:00Z"
 url_code: ""
 url_slides: ""
 url_video: ""

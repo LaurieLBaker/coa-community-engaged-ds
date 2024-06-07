@@ -16,7 +16,7 @@ tags:
 - Community 
 - Fisheries
 title: Maine River Herring Network
-publishDate: "2022-04-25T00:00:00Z"
+publishDate: "2024-06-06T00:00:00Z"
 ---
 
 ## Project Background
