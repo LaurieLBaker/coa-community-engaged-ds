@@ -40,9 +40,9 @@ We enhanced the field report by introducing tabs for easy navigation across diff
 
 
 <figure style="display: flex; justify-content: center;">
-    <video src="recordings/Recording 2024-05-28 201148.mp4" width="320" height="240" controls preload>
+    <video src="recordings/Recording 2024-05-28 201148.mp4" width="480" height="320" controls preload>
     </video>
-    <figcaption> Field Report.</figcaption>
+    <figcaption> Recording of interactive parameterized field report.</figcaption>
 </figure>
 
 
@@ -51,11 +51,10 @@ In the latter half of the term, we focused on developing a lab report with quali
 Like the field report, this lab report also includes filtering and sorting capabilities. In our final iteration, we tailored the report to our community partners’ needs by organizing each sampling visit by the constituent. Instead of displaying results for all constituents together, they are presented under separate headers in the table of contents, facilitating a smoother transition between different lab reports.
 
 
-
 <figure style="display: flex; justify-content: center;">
-    <video src="recordings/Recording 2024-05-27 133028.mp4" width="320" height="240" controls preload>
+    <video src="recordings/Recording 2024-05-27 133028.mp4" width="480" height="320" controls preload>
     </video>
-    <figcaption> Lab Report.</figcaption>
+    <figcaption> Recording of interactive parameterized lab report.</figcaption>
 </figure>
 
 
