@@ -35,7 +35,7 @@ Our team worked with the Winter Harbor Historical Society to utilize text analys
 ## Project Outputs
 
 <figure>
-    <img src="project/featured.jpg"
+    <img src="journal.jpg"
          alt="Photo of a journal page with entries for each day between December 23rd through 31st. Text reads; December 23: Was married at home in evening by William Rand Esqr. December 24: Went to meeting. December 25: Shooting match all day in the evening to Christmas tree at the Hall. December 26: About home at work jobbing. December 28: Work about home. December 29: To work in shop. December 30: To work in shop. December 31: Went to meeting">
     <figcaption>Figure 1. Page from one of Freeland's journals.</figcaption>
 </figure>
