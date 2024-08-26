@@ -57,7 +57,7 @@ accomplishment looks like. This website is for potential and current
 participants to get updated, accurate information regaring home energy
 audits, government rebates and other related information.
 
-<iframe src="https://coa-energy-upgrade-project.netlify.app" width="100%" height="500" title="COA Energy Project Website">
+<iframe src="https://maineup.org/" width="100%" height="500" title="COA Energy Project Website">
 
 </iframe>
 
